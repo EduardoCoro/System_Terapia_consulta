@@ -1,0 +1,10 @@
+Error=
+- Frm_Cadastro_médico - no localizar - quando o programa é aberto, todos os registros de médico desaparecem e so aparecem no localizar , bugado.
+
+- Frm_Cadastro_Tipo_de_Tratamento - no localizar - quando o programa é aberto, todos os registros de médico desaparecem e so aparecem no localizar , bugado.
+
+- localizar sessao - com problema.
+
+-Relatorios com Erro.
+
+-Não sabemos fazer pesquisa por data , so nome .

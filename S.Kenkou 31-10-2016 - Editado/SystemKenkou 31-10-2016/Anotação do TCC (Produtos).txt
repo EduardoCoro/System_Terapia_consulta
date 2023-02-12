@@ -1,0 +1,3 @@
+ocultar cadastro de produto e venda
+
+terminar conta receber, verificar a hora que vai gerar a conta, fazer o quitar, etc

@@ -1,0 +1,1296 @@
+F:\TCC\SystemKenkou\SystemKenkou\bin\Debug\SystemKenkou.exe
+F:\TCC\SystemKenkou\SystemKenkou\bin\Debug\SystemKenkou.pdb
+F:\TCC\SystemKenkou\SystemKenkou\obj\x86\Debug\SystemKenkou.frm_chamada.resources
+F:\TCC\SystemKenkou\SystemKenkou\obj\x86\Debug\SystemKenkou.login_principal.resources
+F:\TCC\SystemKenkou\SystemKenkou\obj\x86\Debug\SystemKenkou.Properties.Resources.resources
+F:\TCC\SystemKenkou\SystemKenkou\obj\x86\Debug\SystemKenkou.TelaInicio.resources
+F:\TCC\SystemKenkou\SystemKenkou\obj\x86\Debug\SystemKenkou.csproj.GenerateResource.Cache
+F:\TCC\SystemKenkou\SystemKenkou\obj\x86\Debug\SystemKenkou.exe
+F:\TCC\SystemKenkou\SystemKenkou\obj\x86\Debug\SystemKenkou.pdb
+C:\Users\Japa\Desktop\SystemKenkou\SystemKenkou\obj\x86\Debug\SystemKenkou.exe
+C:\Users\Japa\Desktop\SystemKenkou\SystemKenkou\obj\x86\Debug\SystemKenkou.pdb
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\SystemKenkou\SystemKenkou\obj\x86\Debug\SystemKenkou.exe
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\SystemKenkou\SystemKenkou\obj\x86\Debug\SystemKenkou.pdb
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\SystemKenkou\SystemKenkou\bin\Debug\SystemKenkou.exe
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\SystemKenkou\SystemKenkou\bin\Debug\SystemKenkou.pdb
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\SystemKenkou\SystemKenkou\obj\x86\Debug\SystemKenkou.Cod_users.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\SystemKenkou\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Rel_Tratamento_Alta.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\SystemKenkou\SystemKenkou\obj\x86\Debug\SystemKenkou.login_principal.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\SystemKenkou\SystemKenkou\obj\x86\Debug\SystemKenkou.Properties.Resources.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\SystemKenkou\SystemKenkou\obj\x86\Debug\SystemKenkou.TelaInicio.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\SystemKenkou\SystemKenkou\obj\x86\Debug\SystemKenkou.testelogin.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\SystemKenkou\SystemKenkou\obj\x86\Debug\SystemKenkou.csproj.GenerateResource.Cache
+D:\SystemKenkou\SystemKenkou\obj\x86\Debug\SystemKenkou.exe
+D:\SystemKenkou\SystemKenkou\obj\x86\Debug\SystemKenkou.pdb
+D:\SystemKenkou\SystemKenkou\bin\Debug\SystemKenkou.exe.config
+D:\SystemKenkou\SystemKenkou\bin\Debug\SystemKenkou.exe
+D:\SystemKenkou\SystemKenkou\bin\Debug\SystemKenkou.pdb
+D:\SystemKenkou\SystemKenkou\obj\x86\Debug\SystemKenkou.Cod_users.resources
+D:\SystemKenkou\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Medico.resources
+D:\SystemKenkou\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Pacientes.resources
+D:\SystemKenkou\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Produto.resources
+D:\SystemKenkou\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Tratamento_tipos.resources
+D:\SystemKenkou\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_consultas.resources
+D:\SystemKenkou\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Rel_Tratamento_Alta.resources
+D:\SystemKenkou\SystemKenkou\obj\x86\Debug\SystemKenkou.login_principal.resources
+D:\SystemKenkou\SystemKenkou\obj\x86\Debug\SystemKenkou.Properties.Resources.resources
+D:\SystemKenkou\SystemKenkou\obj\x86\Debug\SystemKenkou.TelaInicio.resources
+D:\SystemKenkou\SystemKenkou\obj\x86\Debug\SystemKenkou.testelogin.resources
+D:\SystemKenkou\SystemKenkou\obj\x86\Debug\SystemKenkou.csproj.GenerateResource.Cache
+F:\SystemKenkou\SystemKenkou\bin\Debug\SystemKenkou.exe.config
+F:\SystemKenkou\SystemKenkou\obj\x86\Debug\SystemKenkou.exe
+F:\SystemKenkou\SystemKenkou\obj\x86\Debug\SystemKenkou.pdb
+F:\SystemKenkou\SystemKenkou\bin\Debug\SystemKenkou.exe
+F:\SystemKenkou\SystemKenkou\bin\Debug\SystemKenkou.pdb
+F:\SystemKenkou\SystemKenkou\obj\x86\Debug\SystemKenkou.Cod_users.resources
+F:\SystemKenkou\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Medico.resources
+F:\SystemKenkou\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Pacientes.resources
+F:\SystemKenkou\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Produto.resources
+F:\SystemKenkou\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Tratamento_tipos.resources
+F:\SystemKenkou\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_consultas.resources
+F:\SystemKenkou\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Rel_Tratamento_Alta.resources
+F:\SystemKenkou\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Tratamento.resources
+F:\SystemKenkou\SystemKenkou\obj\x86\Debug\SystemKenkou.login_principal.resources
+F:\SystemKenkou\SystemKenkou\obj\x86\Debug\SystemKenkou.Properties.Resources.resources
+F:\SystemKenkou\SystemKenkou\obj\x86\Debug\SystemKenkou.TelaInicio.resources
+F:\SystemKenkou\SystemKenkou\obj\x86\Debug\SystemKenkou.testelogin.resources
+F:\SystemKenkou\SystemKenkou\obj\x86\Debug\SystemKenkou.csproj.GenerateResource.Cache
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\SystemKenkou\SystemKenkou\bin\Debug\SystemKenkou.exe.config
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\SystemKenkou\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Medico.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\SystemKenkou\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Pacientes.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\SystemKenkou\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Produto.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\SystemKenkou\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Tratamento_tipos.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\SystemKenkou\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_consultas.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\SystemKenkou\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Tratamento.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\SystemKenkou\SystemKenkou\obj\x86\Debug\SystemKenkou.csprojResolveAssemblyReference.cache
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\TCC\SystemKenkou 01-08-2016\SystemKenkou\bin\Debug\SystemKenkou.exe.config
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\TCC\SystemKenkou 01-08-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.exe
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\TCC\SystemKenkou 01-08-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.pdb
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\TCC\SystemKenkou 01-08-2016\SystemKenkou\bin\Debug\SystemKenkou.exe
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\TCC\SystemKenkou 01-08-2016\SystemKenkou\bin\Debug\SystemKenkou.pdb
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\TCC\SystemKenkou 01-08-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.csprojResolveAssemblyReference.cache
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\TCC\SystemKenkou 01-08-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Cod_users.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\TCC\SystemKenkou 01-08-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Cidade.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\TCC\SystemKenkou 01-08-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Medico.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\TCC\SystemKenkou 01-08-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Pacientes.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\TCC\SystemKenkou 01-08-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Produto.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\TCC\SystemKenkou 01-08-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Tratamento_tipos.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\TCC\SystemKenkou 01-08-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_consultas.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\TCC\SystemKenkou 01-08-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Rel_Tratamento_Alta.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\TCC\SystemKenkou 01-08-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Tratamento.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\TCC\SystemKenkou 01-08-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.login_principal.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\TCC\SystemKenkou 01-08-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Properties.Resources.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\TCC\SystemKenkou 01-08-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.TelaInicio.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\TCC\SystemKenkou 01-08-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.csproj.GenerateResource.Cache
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\SystemKenkou 03-08-2016\SystemKenkou\bin\Debug\SystemKenkou.exe.config
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\SystemKenkou 03-08-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.exe
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\SystemKenkou 03-08-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.pdb
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\SystemKenkou 03-08-2016\SystemKenkou\bin\Debug\SystemKenkou.exe
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\SystemKenkou 03-08-2016\SystemKenkou\bin\Debug\SystemKenkou.pdb
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\SystemKenkou 03-08-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.csprojResolveAssemblyReference.cache
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\SystemKenkou 03-08-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Cod_users.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\SystemKenkou 03-08-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Cidade.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\SystemKenkou 03-08-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Medico.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\SystemKenkou 03-08-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Pacientes.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\SystemKenkou 03-08-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Produto.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\SystemKenkou 03-08-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Tratamento_tipos.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\SystemKenkou 03-08-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_consultas.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\SystemKenkou 03-08-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Rel_Tratamento_Alta.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\SystemKenkou 03-08-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Tratamento.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\SystemKenkou 03-08-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.login_principal.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\SystemKenkou 03-08-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Properties.Resources.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\SystemKenkou 03-08-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.TelaInicio.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\SystemKenkou 03-08-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.csproj.GenerateResource.Cache
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\TCC 03-08-2016\TCC 03-08-2016\TCC 03-08-2016\SystemKenkou 04-08-2016\SystemKenkou\bin\Debug\SystemKenkou.exe.config
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\TCC 03-08-2016\TCC 03-08-2016\TCC 03-08-2016\SystemKenkou 04-08-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.exe
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\TCC 03-08-2016\TCC 03-08-2016\TCC 03-08-2016\SystemKenkou 04-08-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.pdb
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\TCC 03-08-2016\TCC 03-08-2016\TCC 03-08-2016\SystemKenkou 04-08-2016\SystemKenkou\bin\Debug\SystemKenkou.exe
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\TCC 03-08-2016\TCC 03-08-2016\TCC 03-08-2016\SystemKenkou 04-08-2016\SystemKenkou\bin\Debug\SystemKenkou.pdb
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\TCC 03-08-2016\TCC 03-08-2016\TCC 03-08-2016\SystemKenkou 04-08-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.csprojResolveAssemblyReference.cache
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\TCC 03-08-2016\TCC 03-08-2016\TCC 03-08-2016\SystemKenkou 04-08-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Cidade.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\TCC 03-08-2016\TCC 03-08-2016\TCC 03-08-2016\SystemKenkou 04-08-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Medico.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\TCC 03-08-2016\TCC 03-08-2016\TCC 03-08-2016\SystemKenkou 04-08-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Pacientes.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\TCC 03-08-2016\TCC 03-08-2016\TCC 03-08-2016\SystemKenkou 04-08-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Produto.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\TCC 03-08-2016\TCC 03-08-2016\TCC 03-08-2016\SystemKenkou 04-08-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Tratamento_tipos.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\TCC 03-08-2016\TCC 03-08-2016\TCC 03-08-2016\SystemKenkou 04-08-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frm_cadastro_Users.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\TCC 03-08-2016\TCC 03-08-2016\TCC 03-08-2016\SystemKenkou 04-08-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_consultas.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\TCC 03-08-2016\TCC 03-08-2016\TCC 03-08-2016\SystemKenkou 04-08-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Rel_Tratamento_Alta.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\TCC 03-08-2016\TCC 03-08-2016\TCC 03-08-2016\SystemKenkou 04-08-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Tratamento.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\TCC 03-08-2016\TCC 03-08-2016\TCC 03-08-2016\SystemKenkou 04-08-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.login_principal.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\TCC 03-08-2016\TCC 03-08-2016\TCC 03-08-2016\SystemKenkou 04-08-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Properties.Resources.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\TCC 03-08-2016\TCC 03-08-2016\TCC 03-08-2016\SystemKenkou 04-08-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.TelaInicio.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\TCC 03-08-2016\TCC 03-08-2016\TCC 03-08-2016\SystemKenkou 04-08-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.csproj.GenerateResource.Cache
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\TCC 04-08-2016\SystemKenkou 04-08-2016\SystemKenkou\bin\Debug\SystemKenkou.exe.config
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\TCC 04-08-2016\SystemKenkou 04-08-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.exe
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\TCC 04-08-2016\SystemKenkou 04-08-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.pdb
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\TCC 04-08-2016\SystemKenkou 04-08-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.csprojResolveAssemblyReference.cache
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\TCC 04-08-2016\SystemKenkou 04-08-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Cidade.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\TCC 04-08-2016\SystemKenkou 04-08-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Medico.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\TCC 04-08-2016\SystemKenkou 04-08-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Pacientes.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\TCC 04-08-2016\SystemKenkou 04-08-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Produto.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\TCC 04-08-2016\SystemKenkou 04-08-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Tratamento_tipos.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\TCC 04-08-2016\SystemKenkou 04-08-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frm_cadastro_Users.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\TCC 04-08-2016\SystemKenkou 04-08-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_consultas.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\TCC 04-08-2016\SystemKenkou 04-08-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_img_opcao.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\TCC 04-08-2016\SystemKenkou 04-08-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Rel_Tratamento_Alta.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\TCC 04-08-2016\SystemKenkou 04-08-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Tratamento.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\TCC 04-08-2016\SystemKenkou 04-08-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.login_principal.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\TCC 04-08-2016\SystemKenkou 04-08-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Properties.Resources.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\TCC 04-08-2016\SystemKenkou 04-08-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.TelaInicio.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\TCC 04-08-2016\SystemKenkou 04-08-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.csproj.GenerateResource.Cache
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\TCC 04-08-2016\SystemKenkou 04-08-2016\SystemKenkou\bin\Debug\SystemKenkou.exe
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\TCC 04-08-2016\SystemKenkou 04-08-2016\SystemKenkou\bin\Debug\SystemKenkou.pdb
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\TCC 04-08-2016 V2\SystemKenkou 04-08-2016\SystemKenkou\bin\Debug\SystemKenkou.exe.config
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\TCC 04-08-2016 V2\SystemKenkou 04-08-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.exe
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\TCC 04-08-2016 V2\SystemKenkou 04-08-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.pdb
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\TCC 04-08-2016 V2\SystemKenkou 04-08-2016\SystemKenkou\bin\Debug\SystemKenkou.exe
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\TCC 04-08-2016 V2\SystemKenkou 04-08-2016\SystemKenkou\bin\Debug\SystemKenkou.pdb
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\TCC 04-08-2016 V2\SystemKenkou 04-08-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.csprojResolveAssemblyReference.cache
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\TCC 04-08-2016 V2\SystemKenkou 04-08-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Cidade.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\TCC 04-08-2016 V2\SystemKenkou 04-08-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Medico.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\TCC 04-08-2016 V2\SystemKenkou 04-08-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Pacientes.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\TCC 04-08-2016 V2\SystemKenkou 04-08-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Produto.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\TCC 04-08-2016 V2\SystemKenkou 04-08-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Tratamento_tipos.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\TCC 04-08-2016 V2\SystemKenkou 04-08-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frm_cadastro_Users.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\TCC 04-08-2016 V2\SystemKenkou 04-08-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_consultas.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\TCC 04-08-2016 V2\SystemKenkou 04-08-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_img_opcao.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\TCC 04-08-2016 V2\SystemKenkou 04-08-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Rel_Tratamento_Alta.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\TCC 04-08-2016 V2\SystemKenkou 04-08-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Tratamento.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\TCC 04-08-2016 V2\SystemKenkou 04-08-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.login_principal.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\TCC 04-08-2016 V2\SystemKenkou 04-08-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Properties.Resources.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\TCC 04-08-2016 V2\SystemKenkou 04-08-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.TelaInicio.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\TCC 04-08-2016 V2\SystemKenkou 04-08-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.csproj.GenerateResource.Cache
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\TCC 04-08-2016 V2\TCC 04-08-2016 V2\SystemKenkou 04-08-2016\SystemKenkou\bin\Debug\SystemKenkou.exe.config
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\TCC 04-08-2016 V2\TCC 04-08-2016 V2\SystemKenkou 04-08-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.exe
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\TCC 04-08-2016 V2\TCC 04-08-2016 V2\SystemKenkou 04-08-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.pdb
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\TCC 04-08-2016 V2\TCC 04-08-2016 V2\SystemKenkou 04-08-2016\SystemKenkou\bin\Debug\SystemKenkou.exe
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\TCC 04-08-2016 V2\TCC 04-08-2016 V2\SystemKenkou 04-08-2016\SystemKenkou\bin\Debug\SystemKenkou.pdb
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\TCC 04-08-2016 V2\TCC 04-08-2016 V2\SystemKenkou 04-08-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.csprojResolveAssemblyReference.cache
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\TCC 04-08-2016 V2\TCC 04-08-2016 V2\SystemKenkou 04-08-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Cidade.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\TCC 04-08-2016 V2\TCC 04-08-2016 V2\SystemKenkou 04-08-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Medico.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\TCC 04-08-2016 V2\TCC 04-08-2016 V2\SystemKenkou 04-08-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Pacientes.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\TCC 04-08-2016 V2\TCC 04-08-2016 V2\SystemKenkou 04-08-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Produto.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\TCC 04-08-2016 V2\TCC 04-08-2016 V2\SystemKenkou 04-08-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Tratamento_tipos.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\TCC 04-08-2016 V2\TCC 04-08-2016 V2\SystemKenkou 04-08-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frm_cadastro_Users.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\TCC 04-08-2016 V2\TCC 04-08-2016 V2\SystemKenkou 04-08-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_consultas.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\TCC 04-08-2016 V2\TCC 04-08-2016 V2\SystemKenkou 04-08-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_img_opcao.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\TCC 04-08-2016 V2\TCC 04-08-2016 V2\SystemKenkou 04-08-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Rel_Tratamento_Alta.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\TCC 04-08-2016 V2\TCC 04-08-2016 V2\SystemKenkou 04-08-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Tratamento.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\TCC 04-08-2016 V2\TCC 04-08-2016 V2\SystemKenkou 04-08-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.login_principal.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\TCC 04-08-2016 V2\TCC 04-08-2016 V2\SystemKenkou 04-08-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Properties.Resources.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\TCC 04-08-2016 V2\TCC 04-08-2016 V2\SystemKenkou 04-08-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.TelaInicio.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\TCC 04-08-2016 V2\TCC 04-08-2016 V2\SystemKenkou 04-08-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.csproj.GenerateResource.Cache
+E:\TCC 02-08-2016\TCC 04-08-2016 V3\TCC 04-08-2016 V2\SystemKenkou 04-08-2016\SystemKenkou\bin\Debug\SystemKenkou.exe.config
+E:\TCC 02-08-2016\TCC 04-08-2016 V3\TCC 04-08-2016 V2\SystemKenkou 04-08-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.exe
+E:\TCC 02-08-2016\TCC 04-08-2016 V3\TCC 04-08-2016 V2\SystemKenkou 04-08-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.pdb
+E:\TCC 02-08-2016\TCC 04-08-2016 V3\TCC 04-08-2016 V2\SystemKenkou 04-08-2016\SystemKenkou\bin\Debug\SystemKenkou.exe
+E:\TCC 02-08-2016\TCC 04-08-2016 V3\TCC 04-08-2016 V2\SystemKenkou 04-08-2016\SystemKenkou\bin\Debug\SystemKenkou.pdb
+E:\TCC 02-08-2016\TCC 04-08-2016 V3\TCC 04-08-2016 V2\SystemKenkou 04-08-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.csprojResolveAssemblyReference.cache
+E:\TCC 02-08-2016\TCC 04-08-2016 V3\TCC 04-08-2016 V2\SystemKenkou 04-08-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Cidade.resources
+E:\TCC 02-08-2016\TCC 04-08-2016 V3\TCC 04-08-2016 V2\SystemKenkou 04-08-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Medico.resources
+E:\TCC 02-08-2016\TCC 04-08-2016 V3\TCC 04-08-2016 V2\SystemKenkou 04-08-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Pacientes.resources
+E:\TCC 02-08-2016\TCC 04-08-2016 V3\TCC 04-08-2016 V2\SystemKenkou 04-08-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Produto.resources
+E:\TCC 02-08-2016\TCC 04-08-2016 V3\TCC 04-08-2016 V2\SystemKenkou 04-08-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Tratamento_tipos.resources
+E:\TCC 02-08-2016\TCC 04-08-2016 V3\TCC 04-08-2016 V2\SystemKenkou 04-08-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frm_cadastro_Users.resources
+E:\TCC 02-08-2016\TCC 04-08-2016 V3\TCC 04-08-2016 V2\SystemKenkou 04-08-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_consultas.resources
+E:\TCC 02-08-2016\TCC 04-08-2016 V3\TCC 04-08-2016 V2\SystemKenkou 04-08-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_img_opcao.resources
+E:\TCC 02-08-2016\TCC 04-08-2016 V3\TCC 04-08-2016 V2\SystemKenkou 04-08-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Rel_Tratamento_Alta.resources
+E:\TCC 02-08-2016\TCC 04-08-2016 V3\TCC 04-08-2016 V2\SystemKenkou 04-08-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Tratamento.resources
+E:\TCC 02-08-2016\TCC 04-08-2016 V3\TCC 04-08-2016 V2\SystemKenkou 04-08-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.login_principal.resources
+E:\TCC 02-08-2016\TCC 04-08-2016 V3\TCC 04-08-2016 V2\SystemKenkou 04-08-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Properties.Resources.resources
+E:\TCC 02-08-2016\TCC 04-08-2016 V3\TCC 04-08-2016 V2\SystemKenkou 04-08-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.TelaInicio.resources
+E:\TCC 02-08-2016\TCC 04-08-2016 V3\TCC 04-08-2016 V2\SystemKenkou 04-08-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.csproj.GenerateResource.Cache
+D:\TCC 02-08-2016\TCC 04-08-2016 V3\TCC 04-08-2016 V3\SystemKenkou 04-08-2016\SystemKenkou\bin\Debug\SystemKenkou.exe.config
+D:\TCC 02-08-2016\TCC 04-08-2016 V3\TCC 04-08-2016 V3\SystemKenkou 04-08-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.exe
+D:\TCC 02-08-2016\TCC 04-08-2016 V3\TCC 04-08-2016 V3\SystemKenkou 04-08-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.pdb
+D:\TCC 02-08-2016\TCC 04-08-2016 V3\TCC 04-08-2016 V3\SystemKenkou 04-08-2016\SystemKenkou\bin\Debug\SystemKenkou.exe
+D:\TCC 02-08-2016\TCC 04-08-2016 V3\TCC 04-08-2016 V3\SystemKenkou 04-08-2016\SystemKenkou\bin\Debug\SystemKenkou.pdb
+D:\TCC 02-08-2016\TCC 04-08-2016 V3\TCC 04-08-2016 V3\SystemKenkou 04-08-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.csprojResolveAssemblyReference.cache
+D:\TCC 02-08-2016\TCC 04-08-2016 V3\TCC 04-08-2016 V3\SystemKenkou 04-08-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Cidade.resources
+D:\TCC 02-08-2016\TCC 04-08-2016 V3\TCC 04-08-2016 V3\SystemKenkou 04-08-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Medico.resources
+D:\TCC 02-08-2016\TCC 04-08-2016 V3\TCC 04-08-2016 V3\SystemKenkou 04-08-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Pacientes.resources
+D:\TCC 02-08-2016\TCC 04-08-2016 V3\TCC 04-08-2016 V3\SystemKenkou 04-08-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Produto.resources
+D:\TCC 02-08-2016\TCC 04-08-2016 V3\TCC 04-08-2016 V3\SystemKenkou 04-08-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Tratamento_tipos.resources
+D:\TCC 02-08-2016\TCC 04-08-2016 V3\TCC 04-08-2016 V3\SystemKenkou 04-08-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frm_cadastro_Users.resources
+D:\TCC 02-08-2016\TCC 04-08-2016 V3\TCC 04-08-2016 V3\SystemKenkou 04-08-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_consultas.resources
+D:\TCC 02-08-2016\TCC 04-08-2016 V3\TCC 04-08-2016 V3\SystemKenkou 04-08-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_img_opcao.resources
+D:\TCC 02-08-2016\TCC 04-08-2016 V3\TCC 04-08-2016 V3\SystemKenkou 04-08-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Rel_Tratamento_Alta.resources
+D:\TCC 02-08-2016\TCC 04-08-2016 V3\TCC 04-08-2016 V3\SystemKenkou 04-08-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Tratamento.resources
+D:\TCC 02-08-2016\TCC 04-08-2016 V3\TCC 04-08-2016 V3\SystemKenkou 04-08-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Sessao.resources
+D:\TCC 02-08-2016\TCC 04-08-2016 V3\TCC 04-08-2016 V3\SystemKenkou 04-08-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.login_principal.resources
+D:\TCC 02-08-2016\TCC 04-08-2016 V3\TCC 04-08-2016 V3\SystemKenkou 04-08-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Properties.Resources.resources
+D:\TCC 02-08-2016\TCC 04-08-2016 V3\TCC 04-08-2016 V3\SystemKenkou 04-08-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.TelaInicio.resources
+D:\TCC 02-08-2016\TCC 04-08-2016 V3\TCC 04-08-2016 V3\SystemKenkou 04-08-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.csproj.GenerateResource.Cache
+F:\TCC 02-08-2016\editando\TCC 04-08-2016 V3\SystemKenkou 04-08-2016\SystemKenkou\bin\Debug\SystemKenkou.exe.config
+F:\TCC 02-08-2016\editando\TCC 04-08-2016 V3\SystemKenkou 04-08-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.exe
+F:\TCC 02-08-2016\editando\TCC 04-08-2016 V3\SystemKenkou 04-08-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.pdb
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\09-08-2016\TCC 04-08-2016 V3\SystemKenkou 04-08-2016\SystemKenkou\bin\Debug\SystemKenkou.exe.config
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\09-08-2016\TCC 04-08-2016 V3\SystemKenkou 04-08-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.exe
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\09-08-2016\TCC 04-08-2016 V3\SystemKenkou 04-08-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.pdb
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\09-08-2016\TCC 04-08-2016 V3\SystemKenkou 04-08-2016\SystemKenkou\bin\Debug\SystemKenkou.exe
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\09-08-2016\TCC 04-08-2016 V3\SystemKenkou 04-08-2016\SystemKenkou\bin\Debug\SystemKenkou.pdb
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\09-08-2016\TCC 04-08-2016 V3\SystemKenkou 04-08-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.csprojResolveAssemblyReference.cache
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\09-08-2016\TCC 04-08-2016 V3\SystemKenkou 04-08-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frmteste.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\09-08-2016\TCC 04-08-2016 V3\SystemKenkou 04-08-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Cidade.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\09-08-2016\TCC 04-08-2016 V3\SystemKenkou 04-08-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Medico.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\09-08-2016\TCC 04-08-2016 V3\SystemKenkou 04-08-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Pacientes.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\09-08-2016\TCC 04-08-2016 V3\SystemKenkou 04-08-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Produto.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\09-08-2016\TCC 04-08-2016 V3\SystemKenkou 04-08-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Tratamento_tipos.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\09-08-2016\TCC 04-08-2016 V3\SystemKenkou 04-08-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frm_cadastro_Users.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\09-08-2016\TCC 04-08-2016 V3\SystemKenkou 04-08-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_consultas.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\09-08-2016\TCC 04-08-2016 V3\SystemKenkou 04-08-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_img_opcao.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\09-08-2016\TCC 04-08-2016 V3\SystemKenkou 04-08-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Rel_Tratamento_Alta.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\09-08-2016\TCC 04-08-2016 V3\SystemKenkou 04-08-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Tratamento.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\09-08-2016\TCC 04-08-2016 V3\SystemKenkou 04-08-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Sessao.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\09-08-2016\TCC 04-08-2016 V3\SystemKenkou 04-08-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.login_principal.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\09-08-2016\TCC 04-08-2016 V3\SystemKenkou 04-08-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Properties.Resources.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\09-08-2016\TCC 04-08-2016 V3\SystemKenkou 04-08-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.TelaInicio.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\09-08-2016\TCC 04-08-2016 V3\SystemKenkou 04-08-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.csproj.GenerateResource.Cache
+D:\TCC _ Sistemas\09-08-2016- -System\TCC\SystemKenkou\SystemKenkou\bin\Debug\SystemKenkou.exe.config
+D:\TCC _ Sistemas\09-08-2016- -System\TCC\SystemKenkou\SystemKenkou\obj\x86\Debug\SystemKenkou.exe
+D:\TCC _ Sistemas\09-08-2016- -System\TCC\SystemKenkou\SystemKenkou\obj\x86\Debug\SystemKenkou.pdb
+E:\TCC _ Sistemas\09-08-2016- -System\TCC\SystemKenkou\SystemKenkou\bin\Debug\SystemKenkou.exe.config
+E:\TCC _ Sistemas\09-08-2016- -System\TCC\SystemKenkou\SystemKenkou\obj\x86\Debug\SystemKenkou.exe
+E:\TCC _ Sistemas\09-08-2016- -System\TCC\SystemKenkou\SystemKenkou\obj\x86\Debug\SystemKenkou.pdb
+E:\TCC _ Sistemas\09-08-2016- -System\TCC\SystemKenkou\SystemKenkou\obj\x86\Debug\SystemKenkou.csprojResolveAssemblyReference.cache
+E:\TCC _ Sistemas\09-08-2016- -System\TCC\SystemKenkou\SystemKenkou\obj\x86\Debug\SystemKenkou.Frmteste.resources
+E:\TCC _ Sistemas\09-08-2016- -System\TCC\SystemKenkou\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Cidade.resources
+E:\TCC _ Sistemas\09-08-2016- -System\TCC\SystemKenkou\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Medico.resources
+E:\TCC _ Sistemas\09-08-2016- -System\TCC\SystemKenkou\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Pacientes.resources
+E:\TCC _ Sistemas\09-08-2016- -System\TCC\SystemKenkou\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Produto.resources
+E:\TCC _ Sistemas\09-08-2016- -System\TCC\SystemKenkou\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Tratamento_tipos.resources
+E:\TCC _ Sistemas\09-08-2016- -System\TCC\SystemKenkou\SystemKenkou\obj\x86\Debug\SystemKenkou.frm_cadastro_Users.resources
+E:\TCC _ Sistemas\09-08-2016- -System\TCC\SystemKenkou\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_consultas.resources
+E:\TCC _ Sistemas\09-08-2016- -System\TCC\SystemKenkou\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_img_opcao.resources
+E:\TCC _ Sistemas\09-08-2016- -System\TCC\SystemKenkou\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Rel_Tratamento_Alta.resources
+E:\TCC _ Sistemas\09-08-2016- -System\TCC\SystemKenkou\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Tratamento.resources
+E:\TCC _ Sistemas\09-08-2016- -System\TCC\SystemKenkou\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Sessao.resources
+E:\TCC _ Sistemas\09-08-2016- -System\TCC\SystemKenkou\SystemKenkou\obj\x86\Debug\SystemKenkou.login_principal.resources
+E:\TCC _ Sistemas\09-08-2016- -System\TCC\SystemKenkou\SystemKenkou\obj\x86\Debug\SystemKenkou.Properties.Resources.resources
+E:\TCC _ Sistemas\09-08-2016- -System\TCC\SystemKenkou\SystemKenkou\obj\x86\Debug\SystemKenkou.TelaInicio.resources
+E:\TCC _ Sistemas\09-08-2016- -System\TCC\SystemKenkou\SystemKenkou\obj\x86\Debug\SystemKenkou.csproj.GenerateResource.Cache
+E:\TCC _ Sistemas\09-08-2016- -System\TCC\SystemKenkou\SystemKenkou\bin\Debug\SystemKenkou.exe
+E:\TCC _ Sistemas\09-08-2016- -System\TCC\SystemKenkou\SystemKenkou\bin\Debug\SystemKenkou.pdb
+F:\TCC _ Sistemas\09-08-2016- -System\TCC\SystemKenkou\SystemKenkou\bin\Debug\SystemKenkou.exe.config
+F:\TCC _ Sistemas\09-08-2016- -System\TCC\SystemKenkou\SystemKenkou\obj\x86\Debug\SystemKenkou.exe
+F:\TCC _ Sistemas\09-08-2016- -System\TCC\SystemKenkou\SystemKenkou\obj\x86\Debug\SystemKenkou.pdb
+F:\TCC _ Sistemas\09-08-2016- -System\TCC\SystemKenkou\SystemKenkou\bin\Debug\SystemKenkou.exe
+F:\TCC _ Sistemas\09-08-2016- -System\TCC\SystemKenkou\SystemKenkou\bin\Debug\SystemKenkou.pdb
+F:\TCC _ Sistemas\09-08-2016- -System\TCC\SystemKenkou\SystemKenkou\obj\x86\Debug\SystemKenkou.csprojResolveAssemblyReference.cache
+F:\TCC _ Sistemas\09-08-2016- -System\TCC\SystemKenkou\SystemKenkou\obj\x86\Debug\SystemKenkou.Frmteste.resources
+F:\TCC _ Sistemas\09-08-2016- -System\TCC\SystemKenkou\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Cidade.resources
+F:\TCC _ Sistemas\09-08-2016- -System\TCC\SystemKenkou\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Medico.resources
+F:\TCC _ Sistemas\09-08-2016- -System\TCC\SystemKenkou\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Pacientes.resources
+F:\TCC _ Sistemas\09-08-2016- -System\TCC\SystemKenkou\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Produto.resources
+F:\TCC _ Sistemas\09-08-2016- -System\TCC\SystemKenkou\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Tratamento_tipos.resources
+F:\TCC _ Sistemas\09-08-2016- -System\TCC\SystemKenkou\SystemKenkou\obj\x86\Debug\SystemKenkou.frm_cadastro_Users.resources
+F:\TCC _ Sistemas\09-08-2016- -System\TCC\SystemKenkou\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_consultas.resources
+F:\TCC _ Sistemas\09-08-2016- -System\TCC\SystemKenkou\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_img_opcao.resources
+F:\TCC _ Sistemas\09-08-2016- -System\TCC\SystemKenkou\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Rel_Tratamento_Alta.resources
+F:\TCC _ Sistemas\09-08-2016- -System\TCC\SystemKenkou\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Tratamento.resources
+F:\TCC _ Sistemas\09-08-2016- -System\TCC\SystemKenkou\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Sessao.resources
+F:\TCC _ Sistemas\09-08-2016- -System\TCC\SystemKenkou\SystemKenkou\obj\x86\Debug\SystemKenkou.login_principal.resources
+F:\TCC _ Sistemas\09-08-2016- -System\TCC\SystemKenkou\SystemKenkou\obj\x86\Debug\SystemKenkou.Properties.Resources.resources
+F:\TCC _ Sistemas\09-08-2016- -System\TCC\SystemKenkou\SystemKenkou\obj\x86\Debug\SystemKenkou.TelaInicio.resources
+F:\TCC _ Sistemas\09-08-2016- -System\TCC\SystemKenkou\SystemKenkou\obj\x86\Debug\SystemKenkou.csproj.GenerateResource.Cache
+H:\TCC _ Sistemas\09-08-2016- -System\TCC\SystemKenkou\SystemKenkou\bin\Debug\SystemKenkou.exe.config
+H:\TCC _ Sistemas\09-08-2016- -System\TCC\SystemKenkou\SystemKenkou\obj\x86\Debug\SystemKenkou.exe
+H:\TCC _ Sistemas\09-08-2016- -System\TCC\SystemKenkou\SystemKenkou\obj\x86\Debug\SystemKenkou.pdb
+C:\Users\Labs_08-09\Desktop\SystemKenkou\SystemKenkou\bin\Debug\SystemKenkou.exe.config
+C:\Users\Labs_08-09\Desktop\SystemKenkou\SystemKenkou\obj\x86\Debug\SystemKenkou.exe
+C:\Users\Labs_08-09\Desktop\SystemKenkou\SystemKenkou\obj\x86\Debug\SystemKenkou.pdb
+C:\Users\Labs_08-09\Desktop\SystemKenkou\SystemKenkou\bin\Debug\SystemKenkou.exe
+C:\Users\Labs_08-09\Desktop\SystemKenkou\SystemKenkou\bin\Debug\SystemKenkou.pdb
+C:\Users\Labs_08-09\Desktop\SystemKenkou\SystemKenkou\obj\x86\Debug\SystemKenkou.csprojResolveAssemblyReference.cache
+C:\Users\Labs_08-09\Desktop\SystemKenkou\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Cidade.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_cadastro_consulta.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Medico.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Pacientes.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Produto.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Tratamento_tipos.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou\SystemKenkou\obj\x86\Debug\SystemKenkou.frm_cadastro_Users.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_consultas.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_img_opcao.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Rel_Tratamento_Alta.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Tratamento.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Sessao.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou\SystemKenkou\obj\x86\Debug\SystemKenkou.login_principal.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou\SystemKenkou\obj\x86\Debug\SystemKenkou.Properties.Resources.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou\SystemKenkou\obj\x86\Debug\SystemKenkou.TelaInicio.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou\SystemKenkou\obj\x86\Debug\SystemKenkou.csproj.GenerateResource.Cache
+H:\SystemKenkou\SystemKenkou\bin\Debug\SystemKenkou.exe.config
+H:\SystemKenkou\SystemKenkou\obj\x86\Debug\SystemKenkou.exe
+H:\SystemKenkou\SystemKenkou\obj\x86\Debug\SystemKenkou.pdb
+H:\SystemKenkou\SystemKenkou\bin\Debug\SystemKenkou.exe
+H:\SystemKenkou\SystemKenkou\bin\Debug\SystemKenkou.pdb
+H:\SystemKenkou\SystemKenkou\obj\x86\Debug\SystemKenkou.csprojResolveAssemblyReference.cache
+H:\SystemKenkou\SystemKenkou\obj\x86\Debug\SystemKenkou.Botão_cadastros.resources
+H:\SystemKenkou\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Cidade.resources
+H:\SystemKenkou\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_cadastro_consulta.resources
+H:\SystemKenkou\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Medico.resources
+H:\SystemKenkou\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Pacientes.resources
+H:\SystemKenkou\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Produto.resources
+H:\SystemKenkou\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Tratamento_tipos.resources
+H:\SystemKenkou\SystemKenkou\obj\x86\Debug\SystemKenkou.frm_cadastro_Users.resources
+H:\SystemKenkou\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_consultas.resources
+H:\SystemKenkou\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_img_opcao.resources
+H:\SystemKenkou\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Rel_Tratamento_Alta.resources
+H:\SystemKenkou\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Tratamento.resources
+H:\SystemKenkou\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Sessao.resources
+H:\SystemKenkou\SystemKenkou\obj\x86\Debug\SystemKenkou.login_principal.resources
+H:\SystemKenkou\SystemKenkou\obj\x86\Debug\SystemKenkou.Properties.Resources.resources
+H:\SystemKenkou\SystemKenkou\obj\x86\Debug\SystemKenkou.TelaInicio.resources
+H:\SystemKenkou\SystemKenkou\obj\x86\Debug\SystemKenkou.csproj.GenerateResource.Cache
+C:\Users\Labs_08-09\Desktop\SystemKenkou\SystemKenkou\obj\x86\Debug\SystemKenkou.Botão_cadastros.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Rel_historico_consult_produto.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Mov_Venda.resources
+H:\SystemKenkou-25-08\SystemKenkou\bin\Debug\SystemKenkou.exe.config
+H:\SystemKenkou-25-08\SystemKenkou\obj\x86\Debug\SystemKenkou.exe
+H:\SystemKenkou-25-08\SystemKenkou\obj\x86\Debug\SystemKenkou.pdb
+H:\SystemKenkou-25-08\SystemKenkou\bin\Debug\SystemKenkou.exe
+H:\SystemKenkou-25-08\SystemKenkou\bin\Debug\SystemKenkou.pdb
+H:\SystemKenkou-25-08\SystemKenkou\obj\x86\Debug\SystemKenkou.csprojResolveAssemblyReference.cache
+H:\SystemKenkou-25-08\SystemKenkou\obj\x86\Debug\SystemKenkou.Botão_cadastros.resources
+H:\SystemKenkou-25-08\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Cidade.resources
+H:\SystemKenkou-25-08\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_cadastro_consulta.resources
+H:\SystemKenkou-25-08\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Medico.resources
+H:\SystemKenkou-25-08\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Pacientes.resources
+H:\SystemKenkou-25-08\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Produto.resources
+H:\SystemKenkou-25-08\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Tratamento_tipos.resources
+H:\SystemKenkou-25-08\SystemKenkou\obj\x86\Debug\SystemKenkou.frm_cadastro_Users.resources
+H:\SystemKenkou-25-08\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_consultas.resources
+H:\SystemKenkou-25-08\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_img_opcao.resources
+H:\SystemKenkou-25-08\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Mov_Conta_consulta_aberta.resources
+H:\SystemKenkou-25-08\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Rel_historico_consult_produto.resources
+H:\SystemKenkou-25-08\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Tratamento.resources
+H:\SystemKenkou-25-08\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Sessao.resources
+H:\SystemKenkou-25-08\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Mov_Venda.resources
+H:\SystemKenkou-25-08\SystemKenkou\obj\x86\Debug\SystemKenkou.login_principal.resources
+H:\SystemKenkou-25-08\SystemKenkou\obj\x86\Debug\SystemKenkou.Properties.Resources.resources
+H:\SystemKenkou-25-08\SystemKenkou\obj\x86\Debug\SystemKenkou.TelaInicio.resources
+H:\SystemKenkou-25-08\SystemKenkou\obj\x86\Debug\SystemKenkou.csproj.GenerateResource.Cache
+I:\SystemKenkou-25-08\SystemKenkou\bin\Debug\SystemKenkou.exe.config
+I:\SystemKenkou-25-08\SystemKenkou\obj\x86\Debug\SystemKenkou.exe
+I:\SystemKenkou-25-08\SystemKenkou\obj\x86\Debug\SystemKenkou.pdb
+I:\SystemKenkou-25-08\SystemKenkou\bin\Debug\SystemKenkou.exe
+I:\SystemKenkou-25-08\SystemKenkou\bin\Debug\SystemKenkou.pdb
+I:\SystemKenkou-25-08\SystemKenkou\obj\x86\Debug\SystemKenkou.csprojResolveAssemblyReference.cache
+I:\SystemKenkou-25-08\SystemKenkou\obj\x86\Debug\SystemKenkou.Botão_cadastros.resources
+I:\SystemKenkou-25-08\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Cidade.resources
+I:\SystemKenkou-25-08\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_cadastro_consulta.resources
+I:\SystemKenkou-25-08\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Medico.resources
+I:\SystemKenkou-25-08\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Pacientes.resources
+I:\SystemKenkou-25-08\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Produto.resources
+I:\SystemKenkou-25-08\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Tratamento_tipos.resources
+I:\SystemKenkou-25-08\SystemKenkou\obj\x86\Debug\SystemKenkou.frm_cadastro_Users.resources
+I:\SystemKenkou-25-08\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_consultas.resources
+I:\SystemKenkou-25-08\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_img_opcao.resources
+I:\SystemKenkou-25-08\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Mov_Conta_consulta_aberta.resources
+I:\SystemKenkou-25-08\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Rel_historico_consult_produto.resources
+I:\SystemKenkou-25-08\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Tratamento.resources
+I:\SystemKenkou-25-08\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Sessao.resources
+I:\SystemKenkou-25-08\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Mov_Venda.resources
+I:\SystemKenkou-25-08\SystemKenkou\obj\x86\Debug\SystemKenkou.login_principal.resources
+I:\SystemKenkou-25-08\SystemKenkou\obj\x86\Debug\SystemKenkou.Properties.Resources.resources
+I:\SystemKenkou-25-08\SystemKenkou\obj\x86\Debug\SystemKenkou.TelaInicio.resources
+I:\SystemKenkou-25-08\SystemKenkou\obj\x86\Debug\SystemKenkou.csproj.GenerateResource.Cache
+H:\SystemKenkou-25-08\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Rel_Faturamento_periodos.resources
+H:\SystemKenkou-25-08\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Rel_Produto_vendidos.resources
+H:\SystemKenkou-25-08\SystemKenkou\obj\x86\Debug\SystemKenkou.Historico_de_venda.resources
+H:\SystemKenkou-25-08\SystemKenkou\obj\x86\Debug\RdlCompile.cache
+H:\SystemKenkou-25-08\SystemKenkou\obj\x86\Debug\RdlCompile.compiled
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\SystemKenkou-25-08\SystemKenkou\bin\Debug\SystemKenkou.exe.config
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\SystemKenkou-25-08\SystemKenkou\obj\x86\Debug\SystemKenkou.exe
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\SystemKenkou-25-08\SystemKenkou\obj\x86\Debug\SystemKenkou.pdb
+C:\Users\Labs_08-09\Desktop\SystemKenkou-31-08\SystemKenkou-31-08\SystemKenkou\bin\Debug\SystemKenkou.exe.config
+C:\Users\Labs_08-09\Desktop\SystemKenkou-31-08\SystemKenkou-31-08\SystemKenkou\obj\x86\Debug\SystemKenkou.exe
+C:\Users\Labs_08-09\Desktop\SystemKenkou-31-08\SystemKenkou-31-08\SystemKenkou\obj\x86\Debug\SystemKenkou.pdb
+C:\Users\Labs_08-09\Desktop\SystemKenkou-31-08\SystemKenkou-31-08\SystemKenkou\obj\x86\Debug\SystemKenkou.csprojResolveAssemblyReference.cache
+C:\Users\Labs_08-09\Desktop\SystemKenkou-31-08\SystemKenkou-31-08\SystemKenkou\obj\x86\Debug\SystemKenkou.Botão_cadastros.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou-31-08\SystemKenkou-31-08\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Cidade.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou-31-08\SystemKenkou-31-08\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_cadastro_consulta.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou-31-08\SystemKenkou-31-08\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Medico.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou-31-08\SystemKenkou-31-08\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Pacientes.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou-31-08\SystemKenkou-31-08\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Produto.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou-31-08\SystemKenkou-31-08\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Tratamento_tipos.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou-31-08\SystemKenkou-31-08\SystemKenkou\obj\x86\Debug\SystemKenkou.frm_cadastro_Users.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou-31-08\SystemKenkou-31-08\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_consultas.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou-31-08\SystemKenkou-31-08\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_img_opcao.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou-31-08\SystemKenkou-31-08\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Mov_Conta_consulta_aberta.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou-31-08\SystemKenkou-31-08\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Rel_Faturamento_periodos.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou-31-08\SystemKenkou-31-08\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Rel_historico_consult_produto.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou-31-08\SystemKenkou-31-08\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Rel_Produto_Estoque.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou-31-08\SystemKenkou-31-08\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Tratamento.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou-31-08\SystemKenkou-31-08\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Sessao.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou-31-08\SystemKenkou-31-08\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Mov_Venda.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou-31-08\SystemKenkou-31-08\SystemKenkou\obj\x86\Debug\SystemKenkou.Rel_Historico_de_venda.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou-31-08\SystemKenkou-31-08\SystemKenkou\obj\x86\Debug\SystemKenkou.login_principal.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou-31-08\SystemKenkou-31-08\SystemKenkou\obj\x86\Debug\SystemKenkou.Produtos_Vendidos.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou-31-08\SystemKenkou-31-08\SystemKenkou\obj\x86\Debug\SystemKenkou.Properties.Resources.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou-31-08\SystemKenkou-31-08\SystemKenkou\obj\x86\Debug\SystemKenkou.Rel_Historico_sessao.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou-31-08\SystemKenkou-31-08\SystemKenkou\obj\x86\Debug\SystemKenkou.Rel_Sessao_Alta.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou-31-08\SystemKenkou-31-08\SystemKenkou\obj\x86\Debug\SystemKenkou.TelaInicio.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou-31-08\SystemKenkou-31-08\SystemKenkou\obj\x86\Debug\SystemKenkou.csproj.GenerateResource.Cache
+C:\Users\Labs_08-09\Desktop\SystemKenkou-31-08\SystemKenkou-31-08\SystemKenkou\obj\x86\Debug\RdlCompile.cache
+C:\Users\Labs_08-09\Desktop\SystemKenkou-31-08\SystemKenkou-31-08\SystemKenkou\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Labs_08-09\Desktop\SystemKenkou-01-09\SystemKenkou-01-09\SystemKenkou\bin\Debug\SystemKenkou.exe.config
+C:\Users\Labs_08-09\Desktop\SystemKenkou-01-09\SystemKenkou-01-09\SystemKenkou\obj\x86\Debug\SystemKenkou.exe
+C:\Users\Labs_08-09\Desktop\SystemKenkou-01-09\SystemKenkou-01-09\SystemKenkou\obj\x86\Debug\SystemKenkou.csprojResolveAssemblyReference.cache
+C:\Users\Labs_08-09\Desktop\SystemKenkou-01-09\SystemKenkou-01-09\SystemKenkou\obj\x86\Debug\SystemKenkou.Botão_cadastros.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou-01-09\SystemKenkou-01-09\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Cidade.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou-01-09\SystemKenkou-01-09\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_cadastro_consulta.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou-01-09\SystemKenkou-01-09\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Medico.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou-01-09\SystemKenkou-01-09\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Pacientes.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou-01-09\SystemKenkou-01-09\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Produto.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou-01-09\SystemKenkou-01-09\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Tratamento_tipos.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou-01-09\SystemKenkou-01-09\SystemKenkou\obj\x86\Debug\SystemKenkou.frm_cadastro_Users.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou-01-09\SystemKenkou-01-09\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_consultas.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou-01-09\SystemKenkou-01-09\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_img_opcao.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou-01-09\SystemKenkou-01-09\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Mov_Conta_consulta_aberta.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou-01-09\SystemKenkou-01-09\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Tratamento.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou-01-09\SystemKenkou-01-09\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Sessao.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou-01-09\SystemKenkou-01-09\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Mov_Venda.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou-01-09\SystemKenkou-01-09\SystemKenkou\obj\x86\Debug\SystemKenkou.login_principal.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou-01-09\SystemKenkou-01-09\SystemKenkou\obj\x86\Debug\SystemKenkou.Properties.Resources.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou-01-09\SystemKenkou-01-09\SystemKenkou\obj\x86\Debug\SystemKenkou.TelaInicio.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou-01-09\SystemKenkou-01-09\SystemKenkou\obj\x86\Debug\SystemKenkou.csproj.GenerateResource.Cache
+C:\Users\Labs_08-09\Desktop\SystemKenkou-01-09\SystemKenkou-01-09\SystemKenkou\obj\x86\Debug\RdlCompile.cache
+C:\Users\Labs_08-09\Desktop\SystemKenkou-01-09\SystemKenkou-01-09\SystemKenkou\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Labs_08-09\Desktop\SystemKenkou-01-09\SystemKenkou-01-09\SystemKenkou\bin\Debug\SystemKenkou.exe
+C:\Users\Labs_08-09\Desktop\SystemKenkou-01-09\SystemKenkou-01-09\SystemKenkou\bin\Debug\SystemKenkou.pdb
+C:\Users\Labs_08-09\Desktop\SystemKenkou-01-09\SystemKenkou-01-09\SystemKenkou\obj\x86\Debug\SystemKenkou.pdb
+C:\Users\Labs_08-09\Desktop\SystemKenkou-01-09\SystemKenkou\bin\Debug\SystemKenkou.exe.config
+C:\Users\Labs_08-09\Desktop\SystemKenkou-01-09\SystemKenkou\obj\x86\Debug\SystemKenkou.exe
+C:\Users\Labs_08-09\Desktop\SystemKenkou-01-09\SystemKenkou\obj\x86\Debug\SystemKenkou.pdb
+C:\Users\Labs_08-09\Desktop\SystemKenkou-01-09\SystemKenkou\bin\Debug\SystemKenkou.exe
+C:\Users\Labs_08-09\Desktop\SystemKenkou-01-09\SystemKenkou\bin\Debug\SystemKenkou.pdb
+C:\Users\Labs_08-09\Desktop\SystemKenkou-01-09\SystemKenkou\obj\x86\Debug\SystemKenkou.csprojResolveAssemblyReference.cache
+C:\Users\Labs_08-09\Desktop\SystemKenkou-01-09\SystemKenkou\obj\x86\Debug\SystemKenkou.Botão_cadastros.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou-01-09\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Cidade.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou-01-09\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_cadastro_consulta.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou-01-09\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Medico.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou-01-09\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Pacientes.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou-01-09\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Produto.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou-01-09\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Tratamento_tipos.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou-01-09\SystemKenkou\obj\x86\Debug\SystemKenkou.frm_cadastro_Users.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou-01-09\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_consultas.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou-01-09\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_img_opcao.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou-01-09\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Mov_Conta_consulta_aberta.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou-01-09\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Tratamento.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou-01-09\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Sessao.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou-01-09\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Mov_Venda.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou-01-09\SystemKenkou\obj\x86\Debug\SystemKenkou.login_principal.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou-01-09\SystemKenkou\obj\x86\Debug\SystemKenkou.Properties.Resources.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou-01-09\SystemKenkou\obj\x86\Debug\SystemKenkou.TelaInicio.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou-01-09\SystemKenkou\obj\x86\Debug\SystemKenkou.csproj.GenerateResource.Cache
+C:\Users\Labs_08-09\Desktop\SystemKenkou-01-09\SystemKenkou\obj\x86\Debug\RdlCompile.cache
+C:\Users\Labs_08-09\Desktop\SystemKenkou-01-09\SystemKenkou\obj\x86\Debug\RdlCompile.compiled
+\\192.168.100.1\usuarios\SystemKenkou-01-09\SystemKenkou-01-09\SystemKenkou\bin\Debug\SystemKenkou.exe.config
+\\192.168.100.1\usuarios\SystemKenkou-01-09\SystemKenkou-01-09\SystemKenkou\obj\x86\Debug\SystemKenkou.exe
+\\192.168.100.1\usuarios\SystemKenkou-01-09\SystemKenkou-01-09\SystemKenkou\obj\x86\Debug\SystemKenkou.pdb
+\\192.168.100.1\usuarios\SystemKenkou-01-09\SystemKenkou-01-09\SystemKenkou\bin\Debug\SystemKenkou.exe
+\\192.168.100.1\usuarios\SystemKenkou-01-09\SystemKenkou-01-09\SystemKenkou\obj\x86\Debug\SystemKenkou.csprojResolveAssemblyReference.cache
+\\192.168.100.1\usuarios\SystemKenkou-01-09\SystemKenkou-01-09\SystemKenkou\obj\x86\Debug\SystemKenkou.Botão_cadastros.resources
+\\192.168.100.1\usuarios\SystemKenkou-01-09\SystemKenkou-01-09\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Cidade.resources
+\\192.168.100.1\usuarios\SystemKenkou-01-09\SystemKenkou-01-09\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_cadastro_consulta.resources
+\\192.168.100.1\usuarios\SystemKenkou-01-09\SystemKenkou-01-09\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Medico.resources
+\\192.168.100.1\usuarios\SystemKenkou-01-09\SystemKenkou-01-09\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Pacientes.resources
+\\192.168.100.1\usuarios\SystemKenkou-01-09\SystemKenkou-01-09\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Produto.resources
+\\192.168.100.1\usuarios\SystemKenkou-01-09\SystemKenkou-01-09\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Tratamento_tipos.resources
+\\192.168.100.1\usuarios\SystemKenkou-01-09\SystemKenkou-01-09\SystemKenkou\obj\x86\Debug\SystemKenkou.frm_cadastro_Users.resources
+\\192.168.100.1\usuarios\SystemKenkou-01-09\SystemKenkou-01-09\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_consultas.resources
+\\192.168.100.1\usuarios\SystemKenkou-01-09\SystemKenkou-01-09\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_img_opcao.resources
+\\192.168.100.1\usuarios\SystemKenkou-01-09\SystemKenkou-01-09\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Mov_Conta_consulta_aberta.resources
+\\192.168.100.1\usuarios\SystemKenkou-01-09\SystemKenkou-01-09\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Tratamento.resources
+\\192.168.100.1\usuarios\SystemKenkou-01-09\SystemKenkou-01-09\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Sessao.resources
+\\192.168.100.1\usuarios\SystemKenkou-01-09\SystemKenkou-01-09\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Mov_Venda.resources
+\\192.168.100.1\usuarios\SystemKenkou-01-09\SystemKenkou-01-09\SystemKenkou\obj\x86\Debug\SystemKenkou.login_principal.resources
+\\192.168.100.1\usuarios\SystemKenkou-01-09\SystemKenkou-01-09\SystemKenkou\obj\x86\Debug\SystemKenkou.Properties.Resources.resources
+\\192.168.100.1\usuarios\SystemKenkou-01-09\SystemKenkou-01-09\SystemKenkou\obj\x86\Debug\SystemKenkou.TelaInicio.resources
+\\192.168.100.1\usuarios\SystemKenkou-01-09\SystemKenkou-01-09\SystemKenkou\obj\x86\Debug\SystemKenkou.csproj.GenerateResource.Cache
+\\192.168.100.1\usuarios\SystemKenkou-01-09\SystemKenkou-01-09\SystemKenkou\obj\x86\Debug\RdlCompile.cache
+\\192.168.100.1\usuarios\SystemKenkou-01-09\SystemKenkou-01-09\SystemKenkou\obj\x86\Debug\RdlCompile.compiled
+\\192.168.100.1\usuarios\SystemKenkou-01-09\SystemKenkou-01-09\SystemKenkou\bin\Debug\SystemKenkou.pdb
+C:\Users\Labs_08-09\Desktop\SystemKenkou-05-09\SystemKenkou-01-09\SystemKenkou-01-09\SystemKenkou\bin\Debug\SystemKenkou.exe.config
+C:\Users\Labs_08-09\Desktop\SystemKenkou-05-09\SystemKenkou-01-09\SystemKenkou-01-09\SystemKenkou\obj\x86\Debug\SystemKenkou.exe
+C:\Users\Labs_08-09\Desktop\SystemKenkou-05-09\SystemKenkou-01-09\SystemKenkou-01-09\SystemKenkou\obj\x86\Debug\SystemKenkou.pdb
+C:\Users\Labs_08-09\Desktop\SystemKenkou-05-09\SystemKenkou-01-09\SystemKenkou-01-09\SystemKenkou\obj\x86\Debug\SystemKenkou.csprojResolveAssemblyReference.cache
+C:\Users\Labs_08-09\Desktop\SystemKenkou-05-09\SystemKenkou-01-09\SystemKenkou-01-09\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Cidade.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou-05-09\SystemKenkou-01-09\SystemKenkou-01-09\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_cadastro_consulta.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou-05-09\SystemKenkou-01-09\SystemKenkou-01-09\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Medico.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou-05-09\SystemKenkou-01-09\SystemKenkou-01-09\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Pacientes.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou-05-09\SystemKenkou-01-09\SystemKenkou-01-09\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Produto.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou-05-09\SystemKenkou-01-09\SystemKenkou-01-09\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Tratamento_tipos.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou-05-09\SystemKenkou-01-09\SystemKenkou-01-09\SystemKenkou\obj\x86\Debug\SystemKenkou.frm_cadastro_Users.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou-05-09\SystemKenkou-01-09\SystemKenkou-01-09\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_consultas.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou-05-09\SystemKenkou-01-09\SystemKenkou-01-09\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_img_opcao.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou-05-09\SystemKenkou-01-09\SystemKenkou-01-09\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Tratamento.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou-05-09\SystemKenkou-01-09\SystemKenkou-01-09\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Sessao.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou-05-09\SystemKenkou-01-09\SystemKenkou-01-09\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Mov_Venda.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou-05-09\SystemKenkou-01-09\SystemKenkou-01-09\SystemKenkou\obj\x86\Debug\SystemKenkou.login_principal.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou-05-09\SystemKenkou-01-09\SystemKenkou-01-09\SystemKenkou\obj\x86\Debug\SystemKenkou.Properties.Resources.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou-05-09\SystemKenkou-01-09\SystemKenkou-01-09\SystemKenkou\obj\x86\Debug\SystemKenkou.TelaInicio.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou-05-09\SystemKenkou-01-09\SystemKenkou-01-09\SystemKenkou\obj\x86\Debug\SystemKenkou.csproj.GenerateResource.Cache
+C:\Users\Labs_08-09\Desktop\SystemKenkou-05-09\SystemKenkou-01-09\SystemKenkou-01-09\SystemKenkou\obj\x86\Debug\RdlCompile.cache
+C:\Users\Labs_08-09\Desktop\SystemKenkou-05-09\SystemKenkou-01-09\SystemKenkou-01-09\SystemKenkou\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Labs_08-09\Desktop\SystemKenkou-05-09\SystemKenkou-01-09\SystemKenkou-01-09\SystemKenkou\bin\Debug\SystemKenkou.exe
+C:\Users\Labs_08-09\Desktop\SystemKenkou-05-09\SystemKenkou-01-09\SystemKenkou-01-09\SystemKenkou\bin\Debug\SystemKenkou.pdb
+C:\Users\Labs_08-09\Desktop\SystemKenkou-06-09-2016\SystemKenkou-06-09-2016\SystemKenkou-06-09-2016\SystemKenkou\bin\Debug\SystemKenkou.exe.config
+C:\Users\Labs_08-09\Desktop\SystemKenkou-06-09-2016\SystemKenkou-06-09-2016\SystemKenkou-06-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.exe
+C:\Users\Labs_08-09\Desktop\SystemKenkou-06-09-2016\SystemKenkou-06-09-2016\SystemKenkou-06-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.pdb
+C:\Users\Labs_08-09\Desktop\SystemKenkou-06-09-2016\SystemKenkou-06-09-2016\SystemKenkou-06-09-2016\SystemKenkou-06-09-2016\SystemKenkou\bin\Debug\SystemKenkou.exe.config
+C:\Users\Labs_08-09\Desktop\SystemKenkou-06-09-2016\SystemKenkou-06-09-2016\SystemKenkou-06-09-2016\SystemKenkou-06-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.exe
+C:\Users\Labs_08-09\Desktop\SystemKenkou-06-09-2016\SystemKenkou-06-09-2016\SystemKenkou-06-09-2016\SystemKenkou-06-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.pdb
+C:\Users\Labs_08-09\Desktop\SystemKenkou-06-09-2016\SystemKenkou-06-09-2016\SystemKenkou-06-09-2016\SystemKenkou-06-09-2016\SystemKenkou\bin\Debug\SystemKenkou.exe
+C:\Users\Labs_08-09\Desktop\SystemKenkou-06-09-2016\SystemKenkou-06-09-2016\SystemKenkou-06-09-2016\SystemKenkou-06-09-2016\SystemKenkou\bin\Debug\SystemKenkou.pdb
+C:\Users\Labs_08-09\Desktop\SystemKenkou-06-09-2016\SystemKenkou-06-09-2016\SystemKenkou-06-09-2016\SystemKenkou-06-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.csprojResolveAssemblyReference.cache
+C:\Users\Labs_08-09\Desktop\SystemKenkou-06-09-2016\SystemKenkou-06-09-2016\SystemKenkou-06-09-2016\SystemKenkou-06-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Cidade.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou-06-09-2016\SystemKenkou-06-09-2016\SystemKenkou-06-09-2016\SystemKenkou-06-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_cadastro_consulta.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou-06-09-2016\SystemKenkou-06-09-2016\SystemKenkou-06-09-2016\SystemKenkou-06-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Medico.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou-06-09-2016\SystemKenkou-06-09-2016\SystemKenkou-06-09-2016\SystemKenkou-06-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Pacientes.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou-06-09-2016\SystemKenkou-06-09-2016\SystemKenkou-06-09-2016\SystemKenkou-06-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Produto.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou-06-09-2016\SystemKenkou-06-09-2016\SystemKenkou-06-09-2016\SystemKenkou-06-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Tratamento_tipos.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou-06-09-2016\SystemKenkou-06-09-2016\SystemKenkou-06-09-2016\SystemKenkou-06-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frm_cadastro_Users.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou-06-09-2016\SystemKenkou-06-09-2016\SystemKenkou-06-09-2016\SystemKenkou-06-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_consultas.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou-06-09-2016\SystemKenkou-06-09-2016\SystemKenkou-06-09-2016\SystemKenkou-06-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_img_opcao.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou-06-09-2016\SystemKenkou-06-09-2016\SystemKenkou-06-09-2016\SystemKenkou-06-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Tratamento.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou-06-09-2016\SystemKenkou-06-09-2016\SystemKenkou-06-09-2016\SystemKenkou-06-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Sessao.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou-06-09-2016\SystemKenkou-06-09-2016\SystemKenkou-06-09-2016\SystemKenkou-06-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Mov_Venda.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou-06-09-2016\SystemKenkou-06-09-2016\SystemKenkou-06-09-2016\SystemKenkou-06-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.login_principal.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou-06-09-2016\SystemKenkou-06-09-2016\SystemKenkou-06-09-2016\SystemKenkou-06-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Properties.Resources.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou-06-09-2016\SystemKenkou-06-09-2016\SystemKenkou-06-09-2016\SystemKenkou-06-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.TelaInicio.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou-06-09-2016\SystemKenkou-06-09-2016\SystemKenkou-06-09-2016\SystemKenkou-06-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.csproj.GenerateResource.Cache
+C:\Users\Labs_08-09\Desktop\SystemKenkou-06-09-2016\SystemKenkou-06-09-2016\SystemKenkou-06-09-2016\SystemKenkou-06-09-2016\SystemKenkou\obj\x86\Debug\RdlCompile.cache
+C:\Users\Labs_08-09\Desktop\SystemKenkou-06-09-2016\SystemKenkou-06-09-2016\SystemKenkou-06-09-2016\SystemKenkou-06-09-2016\SystemKenkou\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Labs_08-09\Desktop\SystemKenkou-06-09-2016\SystemKenkou-06-09-2016\SystemKenkou\bin\Debug\SystemKenkou.exe.config
+C:\Users\Labs_08-09\Desktop\SystemKenkou-06-09-2016\SystemKenkou-06-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.exe
+C:\Users\Labs_08-09\Desktop\SystemKenkou-06-09-2016\SystemKenkou-06-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.pdb
+C:\Users\Labs_08-09\Desktop\SystemKenkou-06-09-2016\SystemKenkou-06-09-2016\SystemKenkou\bin\Debug\SystemKenkou.exe
+C:\Users\Labs_08-09\Desktop\SystemKenkou-06-09-2016\SystemKenkou-06-09-2016\SystemKenkou\bin\Debug\SystemKenkou.pdb
+C:\Users\Labs_08-09\Desktop\SystemKenkou-06-09-2016\SystemKenkou-06-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.csprojResolveAssemblyReference.cache
+C:\Users\Labs_08-09\Desktop\SystemKenkou-06-09-2016\SystemKenkou-06-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Cidade.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou-06-09-2016\SystemKenkou-06-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_cadastro_consulta.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou-06-09-2016\SystemKenkou-06-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Medico.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou-06-09-2016\SystemKenkou-06-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Pacientes.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou-06-09-2016\SystemKenkou-06-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Produto.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou-06-09-2016\SystemKenkou-06-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Tratamento_tipos.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou-06-09-2016\SystemKenkou-06-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frm_cadastro_Users.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou-06-09-2016\SystemKenkou-06-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_consultas.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou-06-09-2016\SystemKenkou-06-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_img_opcao.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou-06-09-2016\SystemKenkou-06-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Tratamento.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou-06-09-2016\SystemKenkou-06-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Sessao.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou-06-09-2016\SystemKenkou-06-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Mov_Venda.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou-06-09-2016\SystemKenkou-06-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.login_principal.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou-06-09-2016\SystemKenkou-06-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Properties.Resources.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou-06-09-2016\SystemKenkou-06-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.TelaInicio.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou-06-09-2016\SystemKenkou-06-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.csproj.GenerateResource.Cache
+C:\Users\Labs_08-09\Desktop\SystemKenkou-06-09-2016\SystemKenkou-06-09-2016\SystemKenkou\obj\x86\Debug\RdlCompile.cache
+C:\Users\Labs_08-09\Desktop\SystemKenkou-06-09-2016\SystemKenkou-06-09-2016\SystemKenkou\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Labs_08-09\Desktop\SystemKenkou-08-09-2016\SystemKenkou-06-09-2016\SystemKenkou\bin\Debug\SystemKenkou.exe.config
+C:\Users\Labs_08-09\Desktop\SystemKenkou-08-09-2016\SystemKenkou-06-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.exe
+C:\Users\Labs_08-09\Desktop\SystemKenkou-08-09-2016\SystemKenkou-06-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.pdb
+C:\Users\Labs_08-09\Desktop\SystemKenkou-08-09-2016\SystemKenkou-06-09-2016\SystemKenkou\bin\Debug\SystemKenkou.exe
+C:\Users\Labs_08-09\Desktop\SystemKenkou-08-09-2016\SystemKenkou-06-09-2016\SystemKenkou\bin\Debug\SystemKenkou.pdb
+C:\Users\Labs_08-09\Desktop\SystemKenkou-08-09-2016\SystemKenkou-06-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.csprojResolveAssemblyReference.cache
+C:\Users\Labs_08-09\Desktop\SystemKenkou-08-09-2016\SystemKenkou-06-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Cidade.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou-08-09-2016\SystemKenkou-06-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_cadastro_consulta.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou-08-09-2016\SystemKenkou-06-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Medico.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou-08-09-2016\SystemKenkou-06-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Pacientes.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou-08-09-2016\SystemKenkou-06-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Produto.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou-08-09-2016\SystemKenkou-06-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Tratamento_tipos.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou-08-09-2016\SystemKenkou-06-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frm_cadastro_Users.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou-08-09-2016\SystemKenkou-06-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_consultas.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou-08-09-2016\SystemKenkou-06-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_img_opcao.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou-08-09-2016\SystemKenkou-06-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Tratamento.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou-08-09-2016\SystemKenkou-06-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Sessao.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou-08-09-2016\SystemKenkou-06-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Mov_Venda.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou-08-09-2016\SystemKenkou-06-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.login_principal.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou-08-09-2016\SystemKenkou-06-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Properties.Resources.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou-08-09-2016\SystemKenkou-06-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.TelaInicio.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou-08-09-2016\SystemKenkou-06-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.csproj.GenerateResource.Cache
+C:\Users\Labs_08-09\Desktop\SystemKenkou-08-09-2016\SystemKenkou-06-09-2016\SystemKenkou\obj\x86\Debug\RdlCompile.cache
+C:\Users\Labs_08-09\Desktop\SystemKenkou-08-09-2016\SystemKenkou-06-09-2016\SystemKenkou\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Labs_08-09\Desktop\SystemKenkou-08-09-2016\SystemKenkou-06-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frmLocalizarCidade.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou-08-09-2016\SystemKenkou-06-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frmLocalizarMedico.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou-08-09-2016\SystemKenkou-06-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frmLocalizarUser.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou-08-09-2016\SystemKenkou-06-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frmLocalizarPaciente.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 12-09-2016\SystemKenkou-06-09-2016\SystemKenkou\bin\Debug\SystemKenkou.exe.config
+C:\Users\Labs_08-09\Desktop\SystemKenkou 12-09-2016\SystemKenkou-06-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.exe
+C:\Users\Labs_08-09\Desktop\SystemKenkou 12-09-2016\SystemKenkou-06-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.pdb
+C:\Users\Labs_08-09\Desktop\SystemKenkou 12-09-2016\SystemKenkou-06-09-2016\SystemKenkou\bin\Debug\SystemKenkou.exe
+C:\Users\Labs_08-09\Desktop\SystemKenkou 12-09-2016\SystemKenkou-06-09-2016\SystemKenkou\bin\Debug\SystemKenkou.pdb
+C:\Users\Labs_08-09\Desktop\SystemKenkou 12-09-2016\SystemKenkou-06-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.csprojResolveAssemblyReference.cache
+C:\Users\Labs_08-09\Desktop\SystemKenkou 12-09-2016\SystemKenkou-06-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frmLocalizarCidade.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 12-09-2016\SystemKenkou-06-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frmLocalizarMedico.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 12-09-2016\SystemKenkou-06-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frmLocalizarPaciente.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 12-09-2016\SystemKenkou-06-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frmLocalizarUser.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 12-09-2016\SystemKenkou-06-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Cidade.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 12-09-2016\SystemKenkou-06-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_cadastro_consulta.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 12-09-2016\SystemKenkou-06-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Medico.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 12-09-2016\SystemKenkou-06-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Pacientes.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 12-09-2016\SystemKenkou-06-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Produto.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 12-09-2016\SystemKenkou-06-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Tratamento_tipos.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 12-09-2016\SystemKenkou-06-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frm_cadastro_Users.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 12-09-2016\SystemKenkou-06-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_consultas.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 12-09-2016\SystemKenkou-06-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_img_opcao.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 12-09-2016\SystemKenkou-06-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Tratamento.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 12-09-2016\SystemKenkou-06-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Sessao.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 12-09-2016\SystemKenkou-06-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Mov_Venda.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 12-09-2016\SystemKenkou-06-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.login_principal.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 12-09-2016\SystemKenkou-06-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Properties.Resources.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 12-09-2016\SystemKenkou-06-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.TelaInicio.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 12-09-2016\SystemKenkou-06-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.csproj.GenerateResource.Cache
+C:\Users\Labs_08-09\Desktop\SystemKenkou 12-09-2016\SystemKenkou-06-09-2016\SystemKenkou\obj\x86\Debug\RdlCompile.cache
+C:\Users\Labs_08-09\Desktop\SystemKenkou 12-09-2016\SystemKenkou-06-09-2016\SystemKenkou\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Labs_08-09\Desktop\SystemKenkou 12-09-2016\SystemKenkou-06-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frmLocalizarProduto.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 12-09-2016\SystemKenkou-06-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frmLocalizarTratamentocs.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 12-09-2016\SystemKenkou-06-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frmLocalizarSessao.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 12-09-2016\SystemKenkou 12-09-2016\SystemKenkou-06-09-2016\SystemKenkou\bin\Debug\SystemKenkou.exe.config
+C:\Users\Labs_08-09\Desktop\SystemKenkou 12-09-2016\SystemKenkou 12-09-2016\SystemKenkou-06-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.exe
+C:\Users\Labs_08-09\Desktop\SystemKenkou 12-09-2016\SystemKenkou 12-09-2016\SystemKenkou-06-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.pdb
+C:\Users\Labs_08-09\Desktop\SystemKenkou 12-09-2016\SystemKenkou 12-09-2016\SystemKenkou-06-09-2016\SystemKenkou\bin\Debug\SystemKenkou.exe
+C:\Users\Labs_08-09\Desktop\SystemKenkou 12-09-2016\SystemKenkou 12-09-2016\SystemKenkou-06-09-2016\SystemKenkou\bin\Debug\SystemKenkou.pdb
+C:\Users\Labs_08-09\Desktop\SystemKenkou 12-09-2016\SystemKenkou 12-09-2016\SystemKenkou-06-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.csprojResolveAssemblyReference.cache
+C:\Users\Labs_08-09\Desktop\SystemKenkou 12-09-2016\SystemKenkou 12-09-2016\SystemKenkou-06-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frmLocalizarCidade.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 12-09-2016\SystemKenkou 12-09-2016\SystemKenkou-06-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frmLocalizarMedico.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 12-09-2016\SystemKenkou 12-09-2016\SystemKenkou-06-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frmLocalizarPaciente.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 12-09-2016\SystemKenkou 12-09-2016\SystemKenkou-06-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frmLocalizarProduto.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 12-09-2016\SystemKenkou 12-09-2016\SystemKenkou-06-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frmLocalizarSessao.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 12-09-2016\SystemKenkou 12-09-2016\SystemKenkou-06-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frmLocalizarTratamentocs.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 12-09-2016\SystemKenkou 12-09-2016\SystemKenkou-06-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frmLocalizarUser.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 12-09-2016\SystemKenkou 12-09-2016\SystemKenkou-06-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Cidade.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 12-09-2016\SystemKenkou 12-09-2016\SystemKenkou-06-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_cadastro_consulta.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 12-09-2016\SystemKenkou 12-09-2016\SystemKenkou-06-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Medico.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 12-09-2016\SystemKenkou 12-09-2016\SystemKenkou-06-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Pacientes.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 12-09-2016\SystemKenkou 12-09-2016\SystemKenkou-06-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Produto.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 12-09-2016\SystemKenkou 12-09-2016\SystemKenkou-06-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Tratamento_tipos.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 12-09-2016\SystemKenkou 12-09-2016\SystemKenkou-06-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frm_cadastro_Users.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 12-09-2016\SystemKenkou 12-09-2016\SystemKenkou-06-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_consultas.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 12-09-2016\SystemKenkou 12-09-2016\SystemKenkou-06-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_img_opcao.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 12-09-2016\SystemKenkou 12-09-2016\SystemKenkou-06-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Tratamento.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 12-09-2016\SystemKenkou 12-09-2016\SystemKenkou-06-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Sessao.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 12-09-2016\SystemKenkou 12-09-2016\SystemKenkou-06-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Mov_Venda.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 12-09-2016\SystemKenkou 12-09-2016\SystemKenkou-06-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.login_principal.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 12-09-2016\SystemKenkou 12-09-2016\SystemKenkou-06-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Properties.Resources.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 12-09-2016\SystemKenkou 12-09-2016\SystemKenkou-06-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.TelaInicio.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 12-09-2016\SystemKenkou 12-09-2016\SystemKenkou-06-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.csproj.GenerateResource.Cache
+C:\Users\Labs_08-09\Desktop\SystemKenkou 12-09-2016\SystemKenkou 12-09-2016\SystemKenkou-06-09-2016\SystemKenkou\obj\x86\Debug\RdlCompile.cache
+C:\Users\Labs_08-09\Desktop\SystemKenkou 12-09-2016\SystemKenkou 12-09-2016\SystemKenkou-06-09-2016\SystemKenkou\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Labs_08-09\Desktop\SystemKenkou 12-09-2016\SystemKenkou 12-09-2016\SystemKenkou-06-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frmLocalizarConsulta.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 13-09-2016\SystemKenkou-13-09-2016\SystemKenkou\bin\Debug\SystemKenkou.exe.config
+C:\Users\Labs_08-09\Desktop\SystemKenkou 13-09-2016\SystemKenkou-13-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.exe
+C:\Users\Labs_08-09\Desktop\SystemKenkou 13-09-2016\SystemKenkou-13-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.pdb
+C:\Users\Labs_08-09\Desktop\SystemKenkou 13-09-2016\SystemKenkou-13-09-2016\SystemKenkou\bin\Debug\SystemKenkou.exe
+C:\Users\Labs_08-09\Desktop\SystemKenkou 13-09-2016\SystemKenkou-13-09-2016\SystemKenkou\bin\Debug\SystemKenkou.pdb
+C:\Users\Labs_08-09\Desktop\SystemKenkou 13-09-2016\SystemKenkou-13-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.csprojResolveAssemblyReference.cache
+C:\Users\Labs_08-09\Desktop\SystemKenkou 13-09-2016\SystemKenkou-13-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.fmr_rel_estoque.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 13-09-2016\SystemKenkou-13-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.fmr_rel_historico_consulta.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 13-09-2016\SystemKenkou-13-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.fmr_rel_historico_venda.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 13-09-2016\SystemKenkou-13-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.fmr_rel_hitorico_sessao.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 13-09-2016\SystemKenkou-13-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.fmr_rel_produtos_vendidos.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 13-09-2016\SystemKenkou-13-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.fmr_rel_sessao_alta.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 13-09-2016\SystemKenkou-13-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frmLocalizarCidade.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 13-09-2016\SystemKenkou-13-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frmLocalizarConsulta.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 13-09-2016\SystemKenkou-13-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frmLocalizarMedico.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 13-09-2016\SystemKenkou-13-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frmLocalizarPaciente.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 13-09-2016\SystemKenkou-13-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frmLocalizarProduto.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 13-09-2016\SystemKenkou-13-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frmLocalizarSessao.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 13-09-2016\SystemKenkou-13-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frmLocalizarTratamentocs.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 13-09-2016\SystemKenkou-13-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frmLocalizarUser.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 13-09-2016\SystemKenkou-13-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Cidade.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 13-09-2016\SystemKenkou-13-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_cadastro_consulta.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 13-09-2016\SystemKenkou-13-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Medico.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 13-09-2016\SystemKenkou-13-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Pacientes.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 13-09-2016\SystemKenkou-13-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Produto.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 13-09-2016\SystemKenkou-13-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Tratamento_tipos.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 13-09-2016\SystemKenkou-13-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frm_cadastro_Users.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 13-09-2016\SystemKenkou-13-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_consultas.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 13-09-2016\SystemKenkou-13-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_img_opcao.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 13-09-2016\SystemKenkou-13-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Tratamento.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 13-09-2016\SystemKenkou-13-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Sessao.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 13-09-2016\SystemKenkou-13-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Mov_Venda.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 13-09-2016\SystemKenkou-13-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.login_principal.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 13-09-2016\SystemKenkou-13-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Properties.Resources.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 13-09-2016\SystemKenkou-13-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.TelaInicio.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 13-09-2016\SystemKenkou-13-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.csproj.GenerateResource.Cache
+C:\Users\Labs_08-09\Desktop\SystemKenkou 13-09-2016\SystemKenkou-13-09-2016\SystemKenkou\obj\x86\Debug\RdlCompile.cache
+C:\Users\Labs_08-09\Desktop\SystemKenkou 13-09-2016\SystemKenkou-13-09-2016\SystemKenkou\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Labs_08-09\Desktop\SystemKenkou 15-09-2016\SystemKenkou-13-09-2016\SystemKenkou\bin\Debug\SystemKenkou.exe.config
+C:\Users\Labs_08-09\Desktop\SystemKenkou 15-09-2016\SystemKenkou-13-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.exe
+C:\Users\Labs_08-09\Desktop\SystemKenkou 15-09-2016\SystemKenkou-13-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.pdb
+C:\Users\Labs_08-09\Desktop\SystemKenkou 15-09-2016\SystemKenkou-15-09-2016\SystemKenkou\bin\Debug\SystemKenkou.exe.config
+C:\Users\Labs_08-09\Desktop\SystemKenkou 15-09-2016\SystemKenkou-15-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.exe
+C:\Users\Labs_08-09\Desktop\SystemKenkou 15-09-2016\SystemKenkou-15-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.pdb
+C:\Users\Labs_08-09\Desktop\SystemKenkou 15-09-2016\SystemKenkou-15-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.csprojResolveAssemblyReference.cache
+C:\Users\Labs_08-09\Desktop\SystemKenkou 15-09-2016\SystemKenkou-15-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.fmr_rel_estoque.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 15-09-2016\SystemKenkou-15-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.fmr_rel_historico_consulta.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 15-09-2016\SystemKenkou-15-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.fmr_rel_historico_venda.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 15-09-2016\SystemKenkou-15-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.fmr_rel_hitorico_sessao.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 15-09-2016\SystemKenkou-15-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.fmr_rel_produtos_vendidos.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 15-09-2016\SystemKenkou-15-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.fmr_rel_sessao_alta.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 15-09-2016\SystemKenkou-15-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frmLocalizarCidade.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 15-09-2016\SystemKenkou-15-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frmLocalizarConsulta.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 15-09-2016\SystemKenkou-15-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frmLocalizarMedico.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 15-09-2016\SystemKenkou-15-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frmLocalizarPaciente.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 15-09-2016\SystemKenkou-15-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frmLocalizarProduto.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 15-09-2016\SystemKenkou-15-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frmLocalizarSessao.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 15-09-2016\SystemKenkou-15-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frmLocalizarTratamentocs.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 15-09-2016\SystemKenkou-15-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frmLocalizarUser.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 15-09-2016\SystemKenkou-15-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Cidade.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 15-09-2016\SystemKenkou-15-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_cadastro_consulta.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 15-09-2016\SystemKenkou-15-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Medico.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 15-09-2016\SystemKenkou-15-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Pacientes.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 15-09-2016\SystemKenkou-15-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Produto.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 15-09-2016\SystemKenkou-15-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Tratamento_tipos.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 15-09-2016\SystemKenkou-15-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frm_cadastro_Users.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 15-09-2016\SystemKenkou-15-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_consultas.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 15-09-2016\SystemKenkou-15-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_img_opcao.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 15-09-2016\SystemKenkou-15-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Tratamento.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 15-09-2016\SystemKenkou-15-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Sessao.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 15-09-2016\SystemKenkou-15-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Mov_Venda.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 15-09-2016\SystemKenkou-15-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.login_principal.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 15-09-2016\SystemKenkou-15-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Properties.Resources.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 15-09-2016\SystemKenkou-15-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.TelaInicio.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 15-09-2016\SystemKenkou-15-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.csproj.GenerateResource.Cache
+C:\Users\Labs_08-09\Desktop\SystemKenkou 15-09-2016\SystemKenkou-15-09-2016\SystemKenkou\obj\x86\Debug\RdlCompile.cache
+C:\Users\Labs_08-09\Desktop\SystemKenkou 15-09-2016\SystemKenkou-15-09-2016\SystemKenkou\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Labs_08-09\Desktop\SystemKenkou 15-09-2016\SystemKenkou-15-09-2016\SystemKenkou\bin\Debug\SystemKenkou.exe
+C:\Users\Labs_08-09\Desktop\SystemKenkou 15-09-2016\SystemKenkou-15-09-2016\SystemKenkou\bin\Debug\SystemKenkou.pdb
+C:\Users\Labs_08-09\Desktop\SystemKenkou 20-09-2016\SystemKenkou-15-09-2016\SystemKenkou\bin\Debug\SystemKenkou.exe.config
+C:\Users\Labs_08-09\Desktop\SystemKenkou 20-09-2016\SystemKenkou-15-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.exe
+C:\Users\Labs_08-09\Desktop\SystemKenkou 20-09-2016\SystemKenkou-15-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.pdb
+C:\Users\Labs_08-09\Desktop\SystemKenkou 20-09-2016\SystemKenkou-15-09-2016\SystemKenkou\bin\Debug\SystemKenkou.exe
+C:\Users\Labs_08-09\Desktop\SystemKenkou 20-09-2016\SystemKenkou-15-09-2016\SystemKenkou\bin\Debug\SystemKenkou.pdb
+C:\Users\Labs_08-09\Desktop\SystemKenkou 20-09-2016\SystemKenkou-15-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.csprojResolveAssemblyReference.cache
+C:\Users\Labs_08-09\Desktop\SystemKenkou 20-09-2016\SystemKenkou-15-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.fmr_rel_estoque.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 20-09-2016\SystemKenkou-15-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.fmr_rel_historico_consulta.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 20-09-2016\SystemKenkou-15-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.fmr_rel_historico_venda.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 20-09-2016\SystemKenkou-15-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.fmr_rel_hitorico_sessao.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 20-09-2016\SystemKenkou-15-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.fmr_rel_produtos_vendidos.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 20-09-2016\SystemKenkou-15-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.fmr_rel_sessao_alta.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 20-09-2016\SystemKenkou-15-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frmLocalizarCidade.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 20-09-2016\SystemKenkou-15-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frmLocalizarConsulta.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 20-09-2016\SystemKenkou-15-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frmLocalizarMedico.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 20-09-2016\SystemKenkou-15-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frmLocalizarPaciente.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 20-09-2016\SystemKenkou-15-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frmLocalizarProduto.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 20-09-2016\SystemKenkou-15-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frmLocalizarSessao.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 20-09-2016\SystemKenkou-15-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frmLocalizarTratamentocs.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 20-09-2016\SystemKenkou-15-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frmLocalizarUser.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 20-09-2016\SystemKenkou-15-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Cidade.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 20-09-2016\SystemKenkou-15-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_cadastro_consulta.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 20-09-2016\SystemKenkou-15-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Medico.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 20-09-2016\SystemKenkou-15-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Pacientes.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 20-09-2016\SystemKenkou-15-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Produto.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 20-09-2016\SystemKenkou-15-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Tratamento_tipos.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 20-09-2016\SystemKenkou-15-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frm_cadastro_Users.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 20-09-2016\SystemKenkou-15-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_consultas.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 20-09-2016\SystemKenkou-15-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_img_opcao.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 20-09-2016\SystemKenkou-15-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Tratamento.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 20-09-2016\SystemKenkou-15-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Sessao.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 20-09-2016\SystemKenkou-15-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Mov_Venda.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 20-09-2016\SystemKenkou-15-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.login_principal.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 20-09-2016\SystemKenkou-15-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Properties.Resources.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 20-09-2016\SystemKenkou-15-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.TelaInicio.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 20-09-2016\SystemKenkou-15-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.csproj.GenerateResource.Cache
+C:\Users\Labs_08-09\Desktop\SystemKenkou 20-09-2016\SystemKenkou-15-09-2016\SystemKenkou\obj\x86\Debug\RdlCompile.cache
+C:\Users\Labs_08-09\Desktop\SystemKenkou 20-09-2016\SystemKenkou-15-09-2016\SystemKenkou\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Labs_08-09\Desktop\SystemKenkou 22-09-2016\SystemKenkou-15-09-2016\SystemKenkou\bin\Debug\SystemKenkou.exe.config
+C:\Users\Labs_08-09\Desktop\SystemKenkou 22-09-2016\SystemKenkou-15-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.exe
+C:\Users\Labs_08-09\Desktop\SystemKenkou 22-09-2016\SystemKenkou-15-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.pdb
+C:\Users\Labs_08-09\Desktop\SystemKenkou 22-09-2016\SystemKenkou-15-09-2016\SystemKenkou\bin\Debug\SystemKenkou.exe
+C:\Users\Labs_08-09\Desktop\SystemKenkou 22-09-2016\SystemKenkou-15-09-2016\SystemKenkou\bin\Debug\SystemKenkou.pdb
+C:\Users\Labs_08-09\Desktop\SystemKenkou 22-09-2016\SystemKenkou-15-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.csprojResolveAssemblyReference.cache
+C:\Users\Labs_08-09\Desktop\SystemKenkou 22-09-2016\SystemKenkou-15-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.fmr_rel_estoque.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 22-09-2016\SystemKenkou-15-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.fmr_rel_historico_consulta.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 22-09-2016\SystemKenkou-15-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.fmr_rel_historico_venda.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 22-09-2016\SystemKenkou-15-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.fmr_rel_hitorico_sessao.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 22-09-2016\SystemKenkou-15-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.fmr_rel_produtos_vendidos.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 22-09-2016\SystemKenkou-15-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.fmr_rel_sessao_alta.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 22-09-2016\SystemKenkou-15-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frmLocalizarCidade.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 22-09-2016\SystemKenkou-15-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frmLocalizarConsulta.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 22-09-2016\SystemKenkou-15-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frmLocalizarMedico.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 22-09-2016\SystemKenkou-15-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frmLocalizarPaciente.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 22-09-2016\SystemKenkou-15-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frmLocalizarProduto.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 22-09-2016\SystemKenkou-15-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frmLocalizarSessao.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 22-09-2016\SystemKenkou-15-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frmLocalizarTratamentocs.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 22-09-2016\SystemKenkou-15-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frmLocalizarUser.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 22-09-2016\SystemKenkou-15-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Cidade.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 22-09-2016\SystemKenkou-15-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_cadastro_consulta.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 22-09-2016\SystemKenkou-15-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Medico.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 22-09-2016\SystemKenkou-15-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Pacientes.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 22-09-2016\SystemKenkou-15-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Produto.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 22-09-2016\SystemKenkou-15-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Tratamento_tipos.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 22-09-2016\SystemKenkou-15-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frm_cadastro_Users.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 22-09-2016\SystemKenkou-15-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_consultas.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 22-09-2016\SystemKenkou-15-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_img_opcao.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 22-09-2016\SystemKenkou-15-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Tratamento.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 22-09-2016\SystemKenkou-15-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Sessao.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 22-09-2016\SystemKenkou-15-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Mov_Venda.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 22-09-2016\SystemKenkou-15-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.login_principal.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 22-09-2016\SystemKenkou-15-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Properties.Resources.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 22-09-2016\SystemKenkou-15-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.TelaInicio.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 22-09-2016\SystemKenkou-15-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.csproj.GenerateResource.Cache
+C:\Users\Labs_08-09\Desktop\SystemKenkou 22-09-2016\SystemKenkou-15-09-2016\SystemKenkou\obj\x86\Debug\RdlCompile.cache
+C:\Users\Labs_08-09\Desktop\SystemKenkou 22-09-2016\SystemKenkou-15-09-2016\SystemKenkou\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Labs_08-09\Desktop\SystemKenkou 26-09-2016\SystemKenkou 26-09-2016\SystemKenkou-15-09-2016\SystemKenkou\bin\Debug\SystemKenkou.exe.config
+C:\Users\Labs_08-09\Desktop\SystemKenkou 26-09-2016\SystemKenkou 26-09-2016\SystemKenkou-15-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.exe
+C:\Users\Labs_08-09\Desktop\SystemKenkou 26-09-2016\SystemKenkou 26-09-2016\SystemKenkou-15-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.pdb
+C:\Users\Labs_08-09\Desktop\SystemKenkou 26-09-2016\SystemKenkou 26-09-2016\SystemKenkou-15-09-2016\SystemKenkou\bin\Debug\SystemKenkou.exe
+C:\Users\Labs_08-09\Desktop\SystemKenkou 26-09-2016\SystemKenkou 26-09-2016\SystemKenkou-15-09-2016\SystemKenkou\bin\Debug\SystemKenkou.pdb
+C:\Users\Labs_08-09\Desktop\SystemKenkou 26-09-2016\SystemKenkou 26-09-2016\SystemKenkou-15-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.csprojResolveAssemblyReference.cache
+C:\Users\Labs_08-09\Desktop\SystemKenkou 26-09-2016\SystemKenkou 26-09-2016\SystemKenkou-15-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.fmr_rel_estoque.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 26-09-2016\SystemKenkou 26-09-2016\SystemKenkou-15-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.fmr_rel_historico_consulta.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 26-09-2016\SystemKenkou 26-09-2016\SystemKenkou-15-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.fmr_rel_historico_venda.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 26-09-2016\SystemKenkou 26-09-2016\SystemKenkou-15-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.fmr_rel_hitorico_sessao.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 26-09-2016\SystemKenkou 26-09-2016\SystemKenkou-15-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.fmr_rel_produtos_vendidos.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 26-09-2016\SystemKenkou 26-09-2016\SystemKenkou-15-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.fmr_rel_sessao_alta.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 26-09-2016\SystemKenkou 26-09-2016\SystemKenkou-15-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frmLocalizarCidade.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 26-09-2016\SystemKenkou 26-09-2016\SystemKenkou-15-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frmLocalizarConsulta.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 26-09-2016\SystemKenkou 26-09-2016\SystemKenkou-15-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frmLocalizarMedico.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 26-09-2016\SystemKenkou 26-09-2016\SystemKenkou-15-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frmLocalizarPaciente.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 26-09-2016\SystemKenkou 26-09-2016\SystemKenkou-15-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frmLocalizarProduto.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 26-09-2016\SystemKenkou 26-09-2016\SystemKenkou-15-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frmLocalizarSessao.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 26-09-2016\SystemKenkou 26-09-2016\SystemKenkou-15-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frmLocalizarTratamentocs.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 26-09-2016\SystemKenkou 26-09-2016\SystemKenkou-15-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frmLocalizarUser.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 26-09-2016\SystemKenkou 26-09-2016\SystemKenkou-15-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Cidade.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 26-09-2016\SystemKenkou 26-09-2016\SystemKenkou-15-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_cadastro_consulta.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 26-09-2016\SystemKenkou 26-09-2016\SystemKenkou-15-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Medico.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 26-09-2016\SystemKenkou 26-09-2016\SystemKenkou-15-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Pacientes.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 26-09-2016\SystemKenkou 26-09-2016\SystemKenkou-15-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Produto.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 26-09-2016\SystemKenkou 26-09-2016\SystemKenkou-15-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Tratamento_tipos.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 26-09-2016\SystemKenkou 26-09-2016\SystemKenkou-15-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frm_cadastro_Users.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 26-09-2016\SystemKenkou 26-09-2016\SystemKenkou-15-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_consultas.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 26-09-2016\SystemKenkou 26-09-2016\SystemKenkou-15-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_img_opcao.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 26-09-2016\SystemKenkou 26-09-2016\SystemKenkou-15-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Tratamento.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 26-09-2016\SystemKenkou 26-09-2016\SystemKenkou-15-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Sessao.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 26-09-2016\SystemKenkou 26-09-2016\SystemKenkou-15-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Mov_Venda.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 26-09-2016\SystemKenkou 26-09-2016\SystemKenkou-15-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.login_principal.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 26-09-2016\SystemKenkou 26-09-2016\SystemKenkou-15-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Properties.Resources.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 26-09-2016\SystemKenkou 26-09-2016\SystemKenkou-15-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.TelaInicio.resources
+C:\Users\Labs_08-09\Desktop\SystemKenkou 26-09-2016\SystemKenkou 26-09-2016\SystemKenkou-15-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.csproj.GenerateResource.Cache
+C:\Users\Labs_08-09\Desktop\SystemKenkou 26-09-2016\SystemKenkou 26-09-2016\SystemKenkou-15-09-2016\SystemKenkou\obj\x86\Debug\RdlCompile.cache
+C:\Users\Labs_08-09\Desktop\SystemKenkou 26-09-2016\SystemKenkou 26-09-2016\SystemKenkou-15-09-2016\SystemKenkou\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Labs_08-09\Desktop\S.Kenkou 28-09-2016\SystemKenkou 28-09-2016\SystemKenkou-28-09-2016\SystemKenkou\bin\Debug\SystemKenkou.exe.config
+C:\Users\Labs_08-09\Desktop\S.Kenkou 28-09-2016\SystemKenkou 28-09-2016\SystemKenkou-28-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.exe
+C:\Users\Labs_08-09\Desktop\S.Kenkou 28-09-2016\SystemKenkou 28-09-2016\SystemKenkou-28-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.pdb
+C:\Users\Labs_08-09\Desktop\S.Kenkou 28-09-2016\SystemKenkou 28-09-2016\SystemKenkou-28-09-2016\SystemKenkou\bin\Debug\SystemKenkou.exe
+C:\Users\Labs_08-09\Desktop\S.Kenkou 28-09-2016\SystemKenkou 28-09-2016\SystemKenkou-28-09-2016\SystemKenkou\bin\Debug\SystemKenkou.pdb
+C:\Users\Labs_08-09\Desktop\S.Kenkou 28-09-2016\SystemKenkou 28-09-2016\SystemKenkou-28-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.csprojResolveAssemblyReference.cache
+C:\Users\Labs_08-09\Desktop\S.Kenkou 28-09-2016\SystemKenkou 28-09-2016\SystemKenkou-28-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.fmr_rel_estoque.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 28-09-2016\SystemKenkou 28-09-2016\SystemKenkou-28-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.fmr_rel_historico_consulta.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 28-09-2016\SystemKenkou 28-09-2016\SystemKenkou-28-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.fmr_rel_historico_venda.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 28-09-2016\SystemKenkou 28-09-2016\SystemKenkou-28-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.fmr_rel_hitorico_sessao.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 28-09-2016\SystemKenkou 28-09-2016\SystemKenkou-28-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.fmr_rel_produtos_vendidos.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 28-09-2016\SystemKenkou 28-09-2016\SystemKenkou-28-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.fmr_rel_sessao_alta.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 28-09-2016\SystemKenkou 28-09-2016\SystemKenkou-28-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frmLocalizarCidade.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 28-09-2016\SystemKenkou 28-09-2016\SystemKenkou-28-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frmLocalizarConsulta.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 28-09-2016\SystemKenkou 28-09-2016\SystemKenkou-28-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frmLocalizarMedico.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 28-09-2016\SystemKenkou 28-09-2016\SystemKenkou-28-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frmLocalizarPaciente.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 28-09-2016\SystemKenkou 28-09-2016\SystemKenkou-28-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frmLocalizarProduto.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 28-09-2016\SystemKenkou 28-09-2016\SystemKenkou-28-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frmLocalizarSessao.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 28-09-2016\SystemKenkou 28-09-2016\SystemKenkou-28-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frmLocalizarTratamentocs.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 28-09-2016\SystemKenkou 28-09-2016\SystemKenkou-28-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frmLocalizarUser.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 28-09-2016\SystemKenkou 28-09-2016\SystemKenkou-28-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Cidade.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 28-09-2016\SystemKenkou 28-09-2016\SystemKenkou-28-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_cadastro_consulta.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 28-09-2016\SystemKenkou 28-09-2016\SystemKenkou-28-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Medico.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 28-09-2016\SystemKenkou 28-09-2016\SystemKenkou-28-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Pacientes.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 28-09-2016\SystemKenkou 28-09-2016\SystemKenkou-28-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Produto.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 28-09-2016\SystemKenkou 28-09-2016\SystemKenkou-28-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Tratamento_tipos.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 28-09-2016\SystemKenkou 28-09-2016\SystemKenkou-28-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frm_cadastro_Users.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 28-09-2016\SystemKenkou 28-09-2016\SystemKenkou-28-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_consultas.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 28-09-2016\SystemKenkou 28-09-2016\SystemKenkou-28-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_img_opcao.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 28-09-2016\SystemKenkou 28-09-2016\SystemKenkou-28-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Tratamento.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 28-09-2016\SystemKenkou 28-09-2016\SystemKenkou-28-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Sessao.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 28-09-2016\SystemKenkou 28-09-2016\SystemKenkou-28-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Mov_Venda.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 28-09-2016\SystemKenkou 28-09-2016\SystemKenkou-28-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.login_principal.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 28-09-2016\SystemKenkou 28-09-2016\SystemKenkou-28-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Properties.Resources.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 28-09-2016\SystemKenkou 28-09-2016\SystemKenkou-28-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.TelaInicio.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 28-09-2016\SystemKenkou 28-09-2016\SystemKenkou-28-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.csproj.GenerateResource.Cache
+C:\Users\Labs_08-09\Desktop\S.Kenkou 28-09-2016\SystemKenkou 28-09-2016\SystemKenkou-28-09-2016\SystemKenkou\obj\x86\Debug\RdlCompile.cache
+C:\Users\Labs_08-09\Desktop\S.Kenkou 28-09-2016\SystemKenkou 28-09-2016\SystemKenkou-28-09-2016\SystemKenkou\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Labs_08-09\Desktop\S.Kenkou 29-09-2016\SystemKenkou 28-09-2016\SystemKenkou-28-09-2016\SystemKenkou\bin\Debug\SystemKenkou.exe.config
+C:\Users\Labs_08-09\Desktop\S.Kenkou 29-09-2016\SystemKenkou 28-09-2016\SystemKenkou-28-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.exe
+C:\Users\Labs_08-09\Desktop\S.Kenkou 29-09-2016\SystemKenkou 28-09-2016\SystemKenkou-28-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.pdb
+C:\Users\Labs_08-09\Desktop\S.Kenkou 29-09-2016\SystemKenkou 28-09-2016\SystemKenkou-28-09-2016\SystemKenkou\bin\Debug\SystemKenkou.exe
+C:\Users\Labs_08-09\Desktop\S.Kenkou 29-09-2016\SystemKenkou 28-09-2016\SystemKenkou-28-09-2016\SystemKenkou\bin\Debug\SystemKenkou.pdb
+C:\Users\Labs_08-09\Desktop\S.Kenkou 29-09-2016\SystemKenkou 28-09-2016\SystemKenkou-28-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.csprojResolveAssemblyReference.cache
+C:\Users\Labs_08-09\Desktop\S.Kenkou 29-09-2016\SystemKenkou 28-09-2016\SystemKenkou-28-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.fmr_rel_estoque.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 29-09-2016\SystemKenkou 28-09-2016\SystemKenkou-28-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.fmr_rel_historico_consulta.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 29-09-2016\SystemKenkou 28-09-2016\SystemKenkou-28-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.fmr_rel_historico_venda.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 29-09-2016\SystemKenkou 28-09-2016\SystemKenkou-28-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.fmr_rel_hitorico_sessao.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 29-09-2016\SystemKenkou 28-09-2016\SystemKenkou-28-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.fmr_rel_produtos_vendidos.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 29-09-2016\SystemKenkou 28-09-2016\SystemKenkou-28-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.fmr_rel_sessao_alta.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 29-09-2016\SystemKenkou 28-09-2016\SystemKenkou-28-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frmLocalizarCidade.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 29-09-2016\SystemKenkou 28-09-2016\SystemKenkou-28-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frmLocalizarConsulta.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 29-09-2016\SystemKenkou 28-09-2016\SystemKenkou-28-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frmLocalizarMedico.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 29-09-2016\SystemKenkou 28-09-2016\SystemKenkou-28-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frmLocalizarPaciente.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 29-09-2016\SystemKenkou 28-09-2016\SystemKenkou-28-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frmLocalizarProduto.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 29-09-2016\SystemKenkou 28-09-2016\SystemKenkou-28-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frmLocalizarSessao.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 29-09-2016\SystemKenkou 28-09-2016\SystemKenkou-28-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frmLocalizarTratamentocs.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 29-09-2016\SystemKenkou 28-09-2016\SystemKenkou-28-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frmLocalizarUser.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 29-09-2016\SystemKenkou 28-09-2016\SystemKenkou-28-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Cidade.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 29-09-2016\SystemKenkou 28-09-2016\SystemKenkou-28-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_cadastro_consulta.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 29-09-2016\SystemKenkou 28-09-2016\SystemKenkou-28-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Medico.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 29-09-2016\SystemKenkou 28-09-2016\SystemKenkou-28-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Pacientes.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 29-09-2016\SystemKenkou 28-09-2016\SystemKenkou-28-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Produto.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 29-09-2016\SystemKenkou 28-09-2016\SystemKenkou-28-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Tratamento_tipos.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 29-09-2016\SystemKenkou 28-09-2016\SystemKenkou-28-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frm_cadastro_Users.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 29-09-2016\SystemKenkou 28-09-2016\SystemKenkou-28-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_consultas.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 29-09-2016\SystemKenkou 28-09-2016\SystemKenkou-28-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_img_opcao.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 29-09-2016\SystemKenkou 28-09-2016\SystemKenkou-28-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Tratamento.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 29-09-2016\SystemKenkou 28-09-2016\SystemKenkou-28-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Sessao.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 29-09-2016\SystemKenkou 28-09-2016\SystemKenkou-28-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Mov_Venda.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 29-09-2016\SystemKenkou 28-09-2016\SystemKenkou-28-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.login_principal.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 29-09-2016\SystemKenkou 28-09-2016\SystemKenkou-28-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Properties.Resources.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 29-09-2016\SystemKenkou 28-09-2016\SystemKenkou-28-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.TelaInicio.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 29-09-2016\SystemKenkou 28-09-2016\SystemKenkou-28-09-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.csproj.GenerateResource.Cache
+C:\Users\Labs_08-09\Desktop\S.Kenkou 29-09-2016\SystemKenkou 28-09-2016\SystemKenkou-28-09-2016\SystemKenkou\obj\x86\Debug\RdlCompile.cache
+C:\Users\Labs_08-09\Desktop\S.Kenkou 29-09-2016\SystemKenkou 28-09-2016\SystemKenkou-28-09-2016\SystemKenkou\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Labs_08-09\Desktop\S.Kenkou 03-10-2016\SystemKenkou 03-10-2016\SystemKenkou-03-10-2016\SystemKenkou\bin\Debug\SystemKenkou.exe.config
+C:\Users\Labs_08-09\Desktop\S.Kenkou 03-10-2016\SystemKenkou 03-10-2016\SystemKenkou-03-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.exe
+C:\Users\Labs_08-09\Desktop\S.Kenkou 03-10-2016\SystemKenkou 03-10-2016\SystemKenkou-03-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.pdb
+C:\Users\Labs_08-09\Desktop\S.Kenkou 03-10-2016\SystemKenkou 03-10-2016\SystemKenkou-03-10-2016\SystemKenkou\bin\Debug\SystemKenkou.exe
+C:\Users\Labs_08-09\Desktop\S.Kenkou 03-10-2016\SystemKenkou 03-10-2016\SystemKenkou-03-10-2016\SystemKenkou\bin\Debug\SystemKenkou.pdb
+C:\Users\Labs_08-09\Desktop\S.Kenkou 03-10-2016\SystemKenkou 03-10-2016\SystemKenkou-03-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.csprojResolveAssemblyReference.cache
+C:\Users\Labs_08-09\Desktop\S.Kenkou 03-10-2016\SystemKenkou 03-10-2016\SystemKenkou-03-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.fmr_rel_estoque.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 03-10-2016\SystemKenkou 03-10-2016\SystemKenkou-03-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.fmr_rel_historico_consulta.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 03-10-2016\SystemKenkou 03-10-2016\SystemKenkou-03-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.fmr_rel_historico_venda.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 03-10-2016\SystemKenkou 03-10-2016\SystemKenkou-03-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.fmr_rel_hitorico_sessao.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 03-10-2016\SystemKenkou 03-10-2016\SystemKenkou-03-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.fmr_rel_produtos_vendidos.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 03-10-2016\SystemKenkou 03-10-2016\SystemKenkou-03-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.fmr_rel_sessao_alta.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 03-10-2016\SystemKenkou 03-10-2016\SystemKenkou-03-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frmLocalizarCidade.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 03-10-2016\SystemKenkou 03-10-2016\SystemKenkou-03-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frmLocalizarConsulta.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 03-10-2016\SystemKenkou 03-10-2016\SystemKenkou-03-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frmLocalizarMedico.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 03-10-2016\SystemKenkou 03-10-2016\SystemKenkou-03-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frmLocalizarPaciente.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 03-10-2016\SystemKenkou 03-10-2016\SystemKenkou-03-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frmLocalizarProduto.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 03-10-2016\SystemKenkou 03-10-2016\SystemKenkou-03-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frmLocalizarSessao.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 03-10-2016\SystemKenkou 03-10-2016\SystemKenkou-03-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frmLocalizarTratamentocs.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 03-10-2016\SystemKenkou 03-10-2016\SystemKenkou-03-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frmLocalizarUser.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 03-10-2016\SystemKenkou 03-10-2016\SystemKenkou-03-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Cidade.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 03-10-2016\SystemKenkou 03-10-2016\SystemKenkou-03-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_cadastro_consulta.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 03-10-2016\SystemKenkou 03-10-2016\SystemKenkou-03-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Medico.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 03-10-2016\SystemKenkou 03-10-2016\SystemKenkou-03-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Pacientes.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 03-10-2016\SystemKenkou 03-10-2016\SystemKenkou-03-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Produto.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 03-10-2016\SystemKenkou 03-10-2016\SystemKenkou-03-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Tratamento_tipos.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 03-10-2016\SystemKenkou 03-10-2016\SystemKenkou-03-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frm_cadastro_Users.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 03-10-2016\SystemKenkou 03-10-2016\SystemKenkou-03-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_consultas.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 03-10-2016\SystemKenkou 03-10-2016\SystemKenkou-03-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_img_opcao.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 03-10-2016\SystemKenkou 03-10-2016\SystemKenkou-03-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Tratamento.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 03-10-2016\SystemKenkou 03-10-2016\SystemKenkou-03-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Sessao.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 03-10-2016\SystemKenkou 03-10-2016\SystemKenkou-03-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Mov_Venda.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 03-10-2016\SystemKenkou 03-10-2016\SystemKenkou-03-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.login_principal.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 03-10-2016\SystemKenkou 03-10-2016\SystemKenkou-03-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Properties.Resources.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 03-10-2016\SystemKenkou 03-10-2016\SystemKenkou-03-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.TelaInicio.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 03-10-2016\SystemKenkou 03-10-2016\SystemKenkou-03-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.csproj.GenerateResource.Cache
+C:\Users\Labs_08-09\Desktop\S.Kenkou 03-10-2016\SystemKenkou 03-10-2016\SystemKenkou-03-10-2016\SystemKenkou\obj\x86\Debug\RdlCompile.cache
+C:\Users\Labs_08-09\Desktop\S.Kenkou 03-10-2016\SystemKenkou 03-10-2016\SystemKenkou-03-10-2016\SystemKenkou\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Labs_08-09\Desktop\S.Kenkou 05-10-2016 - v2\SystemKenkou 03-10-2016\SystemKenkou-03-10-2016\SystemKenkou\bin\Debug\SystemKenkou.exe.config
+C:\Users\Labs_08-09\Desktop\S.Kenkou 05-10-2016 - v2\SystemKenkou 03-10-2016\SystemKenkou-03-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.exe
+C:\Users\Labs_08-09\Desktop\S.Kenkou 05-10-2016 - v2\SystemKenkou 03-10-2016\SystemKenkou-03-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.pdb
+C:\Users\Labs_08-09\Desktop\S.Kenkou 05-10-2016 - v2\SystemKenkou 03-10-2016\SystemKenkou-03-10-2016\SystemKenkou\bin\Debug\SystemKenkou.exe
+C:\Users\Labs_08-09\Desktop\S.Kenkou 05-10-2016 - v2\SystemKenkou 03-10-2016\SystemKenkou-03-10-2016\SystemKenkou\bin\Debug\SystemKenkou.pdb
+C:\Users\Labs_08-09\Desktop\S.Kenkou 05-10-2016 - v2\SystemKenkou 03-10-2016\SystemKenkou-03-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.csprojResolveAssemblyReference.cache
+C:\Users\Labs_08-09\Desktop\S.Kenkou 05-10-2016 - v2\SystemKenkou 03-10-2016\SystemKenkou-03-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.fmr_rel_estoque.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 05-10-2016 - v2\SystemKenkou 03-10-2016\SystemKenkou-03-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.fmr_rel_historico_consulta.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 05-10-2016 - v2\SystemKenkou 03-10-2016\SystemKenkou-03-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.fmr_rel_historico_venda.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 05-10-2016 - v2\SystemKenkou 03-10-2016\SystemKenkou-03-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.fmr_rel_hitorico_sessao.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 05-10-2016 - v2\SystemKenkou 03-10-2016\SystemKenkou-03-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.fmr_rel_produtos_vendidos.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 05-10-2016 - v2\SystemKenkou 03-10-2016\SystemKenkou-03-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.fmr_rel_sessao_alta.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 05-10-2016 - v2\SystemKenkou 03-10-2016\SystemKenkou-03-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frmLocalizarCidade.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 05-10-2016 - v2\SystemKenkou 03-10-2016\SystemKenkou-03-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frmLocalizarConsulta.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 05-10-2016 - v2\SystemKenkou 03-10-2016\SystemKenkou-03-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frmLocalizarMedico.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 05-10-2016 - v2\SystemKenkou 03-10-2016\SystemKenkou-03-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frmLocalizarPaciente.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 05-10-2016 - v2\SystemKenkou 03-10-2016\SystemKenkou-03-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frmLocalizarProduto.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 05-10-2016 - v2\SystemKenkou 03-10-2016\SystemKenkou-03-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frmLocalizarSessao.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 05-10-2016 - v2\SystemKenkou 03-10-2016\SystemKenkou-03-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frmLocalizarTratamentocs.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 05-10-2016 - v2\SystemKenkou 03-10-2016\SystemKenkou-03-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frmLocalizarUser.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 05-10-2016 - v2\SystemKenkou 03-10-2016\SystemKenkou-03-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Cidade.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 05-10-2016 - v2\SystemKenkou 03-10-2016\SystemKenkou-03-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_cadastro_consulta.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 05-10-2016 - v2\SystemKenkou 03-10-2016\SystemKenkou-03-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Medico.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 05-10-2016 - v2\SystemKenkou 03-10-2016\SystemKenkou-03-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Pacientes.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 05-10-2016 - v2\SystemKenkou 03-10-2016\SystemKenkou-03-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Produto.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 05-10-2016 - v2\SystemKenkou 03-10-2016\SystemKenkou-03-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Tratamento_tipos.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 05-10-2016 - v2\SystemKenkou 03-10-2016\SystemKenkou-03-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frm_cadastro_Users.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 05-10-2016 - v2\SystemKenkou 03-10-2016\SystemKenkou-03-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_consultas.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 05-10-2016 - v2\SystemKenkou 03-10-2016\SystemKenkou-03-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_img_opcao.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 05-10-2016 - v2\SystemKenkou 03-10-2016\SystemKenkou-03-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Tratamento.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 05-10-2016 - v2\SystemKenkou 03-10-2016\SystemKenkou-03-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Sessao.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 05-10-2016 - v2\SystemKenkou 03-10-2016\SystemKenkou-03-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Mov_Venda.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 05-10-2016 - v2\SystemKenkou 03-10-2016\SystemKenkou-03-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.login_principal.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 05-10-2016 - v2\SystemKenkou 03-10-2016\SystemKenkou-03-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Properties.Resources.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 05-10-2016 - v2\SystemKenkou 03-10-2016\SystemKenkou-03-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.TelaInicio.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 05-10-2016 - v2\SystemKenkou 03-10-2016\SystemKenkou-03-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.csproj.GenerateResource.Cache
+C:\Users\Labs_08-09\Desktop\S.Kenkou 05-10-2016 - v2\SystemKenkou 03-10-2016\SystemKenkou-03-10-2016\SystemKenkou\obj\x86\Debug\RdlCompile.cache
+C:\Users\Labs_08-09\Desktop\S.Kenkou 05-10-2016 - v2\SystemKenkou 03-10-2016\SystemKenkou-03-10-2016\SystemKenkou\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Labs_08-09\Desktop\S.Kenkou 06-10-2016 -\SystemKenkou 03-10-2016\SystemKenkou-03-10-2016\SystemKenkou\bin\Debug\SystemKenkou.exe.config
+C:\Users\Labs_08-09\Desktop\S.Kenkou 06-10-2016 -\SystemKenkou 03-10-2016\SystemKenkou-03-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.exe
+C:\Users\Labs_08-09\Desktop\S.Kenkou 06-10-2016 -\SystemKenkou 03-10-2016\SystemKenkou-03-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.pdb
+C:\Users\Labs_08-09\Desktop\S.Kenkou 06-10-2016 -\SystemKenkou 03-10-2016\SystemKenkou-03-10-2016\SystemKenkou\bin\Debug\SystemKenkou.exe
+C:\Users\Labs_08-09\Desktop\S.Kenkou 06-10-2016 -\SystemKenkou 03-10-2016\SystemKenkou-03-10-2016\SystemKenkou\bin\Debug\SystemKenkou.pdb
+C:\Users\Labs_08-09\Desktop\S.Kenkou 06-10-2016 -\SystemKenkou 03-10-2016\SystemKenkou-03-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.csprojResolveAssemblyReference.cache
+C:\Users\Labs_08-09\Desktop\S.Kenkou 06-10-2016 -\SystemKenkou 03-10-2016\SystemKenkou-03-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.fmr_rel_estoque.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 06-10-2016 -\SystemKenkou 03-10-2016\SystemKenkou-03-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.fmr_rel_historico_consulta.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 06-10-2016 -\SystemKenkou 03-10-2016\SystemKenkou-03-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.fmr_rel_historico_venda.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 06-10-2016 -\SystemKenkou 03-10-2016\SystemKenkou-03-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.fmr_rel_hitorico_sessao.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 06-10-2016 -\SystemKenkou 03-10-2016\SystemKenkou-03-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.fmr_rel_produtos_vendidos.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 06-10-2016 -\SystemKenkou 03-10-2016\SystemKenkou-03-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.fmr_rel_sessao_alta.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 06-10-2016 -\SystemKenkou 03-10-2016\SystemKenkou-03-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frmLocalizarCidade.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 06-10-2016 -\SystemKenkou 03-10-2016\SystemKenkou-03-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frmLocalizarConsulta.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 06-10-2016 -\SystemKenkou 03-10-2016\SystemKenkou-03-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frmLocalizarMedico.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 06-10-2016 -\SystemKenkou 03-10-2016\SystemKenkou-03-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frmLocalizarPaciente.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 06-10-2016 -\SystemKenkou 03-10-2016\SystemKenkou-03-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frmLocalizarProduto.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 06-10-2016 -\SystemKenkou 03-10-2016\SystemKenkou-03-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frmLocalizarSessao.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 06-10-2016 -\SystemKenkou 03-10-2016\SystemKenkou-03-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frmLocalizarTratamentocs.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 06-10-2016 -\SystemKenkou 03-10-2016\SystemKenkou-03-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frmLocalizarUser.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 06-10-2016 -\SystemKenkou 03-10-2016\SystemKenkou-03-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Cidade.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 06-10-2016 -\SystemKenkou 03-10-2016\SystemKenkou-03-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_cadastro_consulta.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 06-10-2016 -\SystemKenkou 03-10-2016\SystemKenkou-03-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Medico.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 06-10-2016 -\SystemKenkou 03-10-2016\SystemKenkou-03-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Pacientes.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 06-10-2016 -\SystemKenkou 03-10-2016\SystemKenkou-03-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Produto.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 06-10-2016 -\SystemKenkou 03-10-2016\SystemKenkou-03-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Tratamento_tipos.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 06-10-2016 -\SystemKenkou 03-10-2016\SystemKenkou-03-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frm_cadastro_Users.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 06-10-2016 -\SystemKenkou 03-10-2016\SystemKenkou-03-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_consultas.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 06-10-2016 -\SystemKenkou 03-10-2016\SystemKenkou-03-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_img_opcao.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 06-10-2016 -\SystemKenkou 03-10-2016\SystemKenkou-03-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Tratamento.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 06-10-2016 -\SystemKenkou 03-10-2016\SystemKenkou-03-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Sessao.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 06-10-2016 -\SystemKenkou 03-10-2016\SystemKenkou-03-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Mov_Venda.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 06-10-2016 -\SystemKenkou 03-10-2016\SystemKenkou-03-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.login_principal.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 06-10-2016 -\SystemKenkou 03-10-2016\SystemKenkou-03-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Properties.Resources.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 06-10-2016 -\SystemKenkou 03-10-2016\SystemKenkou-03-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.TelaInicio.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 06-10-2016 -\SystemKenkou 03-10-2016\SystemKenkou-03-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.csproj.GenerateResource.Cache
+C:\Users\Labs_08-09\Desktop\S.Kenkou 06-10-2016 -\SystemKenkou 03-10-2016\SystemKenkou-03-10-2016\SystemKenkou\obj\x86\Debug\RdlCompile.cache
+C:\Users\Labs_08-09\Desktop\S.Kenkou 06-10-2016 -\SystemKenkou 03-10-2016\SystemKenkou-03-10-2016\SystemKenkou\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Labs_08-09\Desktop\S.Kenkou 10-10-2016 -\SystemKenkou 10-10-2016\SystemKenkou-10-10-2016\SystemKenkou\bin\Debug\SystemKenkou.exe.config
+C:\Users\Labs_08-09\Desktop\S.Kenkou 10-10-2016 -\SystemKenkou 10-10-2016\SystemKenkou-10-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.exe
+C:\Users\Labs_08-09\Desktop\S.Kenkou 10-10-2016 -\SystemKenkou 10-10-2016\SystemKenkou-10-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.pdb
+C:\Users\Labs_08-09\Desktop\S.Kenkou 10-10-2016 -\SystemKenkou 10-10-2016\SystemKenkou-10-10-2016\SystemKenkou\bin\Debug\SystemKenkou.exe
+C:\Users\Labs_08-09\Desktop\S.Kenkou 10-10-2016 -\SystemKenkou 10-10-2016\SystemKenkou-10-10-2016\SystemKenkou\bin\Debug\SystemKenkou.pdb
+C:\Users\Labs_08-09\Desktop\S.Kenkou 10-10-2016 -\SystemKenkou 10-10-2016\SystemKenkou-10-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.csprojResolveAssemblyReference.cache
+C:\Users\Labs_08-09\Desktop\S.Kenkou 10-10-2016 -\SystemKenkou 10-10-2016\SystemKenkou-10-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.fmr_rel_estoque.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 10-10-2016 -\SystemKenkou 10-10-2016\SystemKenkou-10-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.fmr_rel_historico_consulta.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 10-10-2016 -\SystemKenkou 10-10-2016\SystemKenkou-10-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.fmr_rel_historico_venda.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 10-10-2016 -\SystemKenkou 10-10-2016\SystemKenkou-10-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.fmr_rel_hitorico_sessao.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 10-10-2016 -\SystemKenkou 10-10-2016\SystemKenkou-10-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.fmr_rel_produtos_vendidos.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 10-10-2016 -\SystemKenkou 10-10-2016\SystemKenkou-10-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.fmr_rel_sessao_alta.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 10-10-2016 -\SystemKenkou 10-10-2016\SystemKenkou-10-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frmLocalizarCidade.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 10-10-2016 -\SystemKenkou 10-10-2016\SystemKenkou-10-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frmLocalizarConsulta.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 10-10-2016 -\SystemKenkou 10-10-2016\SystemKenkou-10-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frmLocalizarMedico.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 10-10-2016 -\SystemKenkou 10-10-2016\SystemKenkou-10-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frmLocalizarPaciente.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 10-10-2016 -\SystemKenkou 10-10-2016\SystemKenkou-10-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frmLocalizarProduto.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 10-10-2016 -\SystemKenkou 10-10-2016\SystemKenkou-10-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frmLocalizarSessao.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 10-10-2016 -\SystemKenkou 10-10-2016\SystemKenkou-10-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frmLocalizarTratamentocs.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 10-10-2016 -\SystemKenkou 10-10-2016\SystemKenkou-10-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frmLocalizarUser.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 10-10-2016 -\SystemKenkou 10-10-2016\SystemKenkou-10-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Cidade.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 10-10-2016 -\SystemKenkou 10-10-2016\SystemKenkou-10-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_cadastro_consulta.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 10-10-2016 -\SystemKenkou 10-10-2016\SystemKenkou-10-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Medico.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 10-10-2016 -\SystemKenkou 10-10-2016\SystemKenkou-10-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Pacientes.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 10-10-2016 -\SystemKenkou 10-10-2016\SystemKenkou-10-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Produto.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 10-10-2016 -\SystemKenkou 10-10-2016\SystemKenkou-10-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Tratamento_tipos.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 10-10-2016 -\SystemKenkou 10-10-2016\SystemKenkou-10-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frm_cadastro_Users.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 10-10-2016 -\SystemKenkou 10-10-2016\SystemKenkou-10-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_consultas.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 10-10-2016 -\SystemKenkou 10-10-2016\SystemKenkou-10-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_img_opcao.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 10-10-2016 -\SystemKenkou 10-10-2016\SystemKenkou-10-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Tratamento.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 10-10-2016 -\SystemKenkou 10-10-2016\SystemKenkou-10-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Sessao.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 10-10-2016 -\SystemKenkou 10-10-2016\SystemKenkou-10-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Mov_Venda.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 10-10-2016 -\SystemKenkou 10-10-2016\SystemKenkou-10-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.login_principal.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 10-10-2016 -\SystemKenkou 10-10-2016\SystemKenkou-10-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Properties.Resources.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 10-10-2016 -\SystemKenkou 10-10-2016\SystemKenkou-10-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.TelaInicio.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 10-10-2016 -\SystemKenkou 10-10-2016\SystemKenkou-10-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.csproj.GenerateResource.Cache
+C:\Users\Labs_08-09\Desktop\S.Kenkou 10-10-2016 -\SystemKenkou 10-10-2016\SystemKenkou-10-10-2016\SystemKenkou\obj\x86\Debug\RdlCompile.cache
+C:\Users\Labs_08-09\Desktop\S.Kenkou 10-10-2016 -\SystemKenkou 10-10-2016\SystemKenkou-10-10-2016\SystemKenkou\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Labs_08-09\Desktop\S.Kenkou 10-10-2016 -\S.Kenkou 10-10-2016 -\SystemKenkou 10-10-2016\SystemKenkou-10-10-2016\SystemKenkou\bin\Debug\SystemKenkou.exe.config
+C:\Users\Labs_08-09\Desktop\S.Kenkou 10-10-2016 -\S.Kenkou 10-10-2016 -\SystemKenkou 10-10-2016\SystemKenkou-10-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.exe
+C:\Users\Labs_08-09\Desktop\S.Kenkou 10-10-2016 -\S.Kenkou 10-10-2016 -\SystemKenkou 10-10-2016\SystemKenkou-10-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.pdb
+C:\Users\Labs_08-09\Desktop\S.Kenkou 10-10-2016 -\S.Kenkou 10-10-2016 -\SystemKenkou 10-10-2016\SystemKenkou-10-10-2016\SystemKenkou\bin\Debug\SystemKenkou.exe
+C:\Users\Labs_08-09\Desktop\S.Kenkou 10-10-2016 -\S.Kenkou 10-10-2016 -\SystemKenkou 10-10-2016\SystemKenkou-10-10-2016\SystemKenkou\bin\Debug\SystemKenkou.pdb
+C:\Users\Labs_08-09\Desktop\S.Kenkou 10-10-2016 -\S.Kenkou 10-10-2016 -\SystemKenkou 10-10-2016\SystemKenkou-10-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.csprojResolveAssemblyReference.cache
+C:\Users\Labs_08-09\Desktop\S.Kenkou 10-10-2016 -\S.Kenkou 10-10-2016 -\SystemKenkou 10-10-2016\SystemKenkou-10-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.fmr_rel_estoque.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 10-10-2016 -\S.Kenkou 10-10-2016 -\SystemKenkou 10-10-2016\SystemKenkou-10-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.fmr_rel_historico_consulta.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 10-10-2016 -\S.Kenkou 10-10-2016 -\SystemKenkou 10-10-2016\SystemKenkou-10-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.fmr_rel_historico_venda.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 10-10-2016 -\S.Kenkou 10-10-2016 -\SystemKenkou 10-10-2016\SystemKenkou-10-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.fmr_rel_hitorico_sessao.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 10-10-2016 -\S.Kenkou 10-10-2016 -\SystemKenkou 10-10-2016\SystemKenkou-10-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.fmr_rel_produtos_vendidos.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 10-10-2016 -\S.Kenkou 10-10-2016 -\SystemKenkou 10-10-2016\SystemKenkou-10-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.fmr_rel_sessao_alta.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 10-10-2016 -\S.Kenkou 10-10-2016 -\SystemKenkou 10-10-2016\SystemKenkou-10-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frmLocalizarCidade.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 10-10-2016 -\S.Kenkou 10-10-2016 -\SystemKenkou 10-10-2016\SystemKenkou-10-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frmLocalizarConsulta.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 10-10-2016 -\S.Kenkou 10-10-2016 -\SystemKenkou 10-10-2016\SystemKenkou-10-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frmLocalizarMedico.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 10-10-2016 -\S.Kenkou 10-10-2016 -\SystemKenkou 10-10-2016\SystemKenkou-10-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frmLocalizarPaciente.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 10-10-2016 -\S.Kenkou 10-10-2016 -\SystemKenkou 10-10-2016\SystemKenkou-10-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frmLocalizarProduto.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 10-10-2016 -\S.Kenkou 10-10-2016 -\SystemKenkou 10-10-2016\SystemKenkou-10-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frmLocalizarSessao.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 10-10-2016 -\S.Kenkou 10-10-2016 -\SystemKenkou 10-10-2016\SystemKenkou-10-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frmLocalizarTratamentocs.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 10-10-2016 -\S.Kenkou 10-10-2016 -\SystemKenkou 10-10-2016\SystemKenkou-10-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frmLocalizarUser.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 10-10-2016 -\S.Kenkou 10-10-2016 -\SystemKenkou 10-10-2016\SystemKenkou-10-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Cidade.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 10-10-2016 -\S.Kenkou 10-10-2016 -\SystemKenkou 10-10-2016\SystemKenkou-10-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_cadastro_consulta.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 10-10-2016 -\S.Kenkou 10-10-2016 -\SystemKenkou 10-10-2016\SystemKenkou-10-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Medico.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 10-10-2016 -\S.Kenkou 10-10-2016 -\SystemKenkou 10-10-2016\SystemKenkou-10-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Pacientes.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 10-10-2016 -\S.Kenkou 10-10-2016 -\SystemKenkou 10-10-2016\SystemKenkou-10-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Produto.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 10-10-2016 -\S.Kenkou 10-10-2016 -\SystemKenkou 10-10-2016\SystemKenkou-10-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Tratamento_tipos.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 10-10-2016 -\S.Kenkou 10-10-2016 -\SystemKenkou 10-10-2016\SystemKenkou-10-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frm_cadastro_Users.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 10-10-2016 -\S.Kenkou 10-10-2016 -\SystemKenkou 10-10-2016\SystemKenkou-10-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_consultas.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 10-10-2016 -\S.Kenkou 10-10-2016 -\SystemKenkou 10-10-2016\SystemKenkou-10-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_img_opcao.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 10-10-2016 -\S.Kenkou 10-10-2016 -\SystemKenkou 10-10-2016\SystemKenkou-10-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Tratamento.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 10-10-2016 -\S.Kenkou 10-10-2016 -\SystemKenkou 10-10-2016\SystemKenkou-10-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Sessao.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 10-10-2016 -\S.Kenkou 10-10-2016 -\SystemKenkou 10-10-2016\SystemKenkou-10-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Mov_Venda.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 10-10-2016 -\S.Kenkou 10-10-2016 -\SystemKenkou 10-10-2016\SystemKenkou-10-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.login_principal.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 10-10-2016 -\S.Kenkou 10-10-2016 -\SystemKenkou 10-10-2016\SystemKenkou-10-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Properties.Resources.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 10-10-2016 -\S.Kenkou 10-10-2016 -\SystemKenkou 10-10-2016\SystemKenkou-10-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.TelaInicio.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 10-10-2016 -\S.Kenkou 10-10-2016 -\SystemKenkou 10-10-2016\SystemKenkou-10-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.csproj.GenerateResource.Cache
+C:\Users\Labs_08-09\Desktop\S.Kenkou 10-10-2016 -\S.Kenkou 10-10-2016 -\SystemKenkou 10-10-2016\SystemKenkou-10-10-2016\SystemKenkou\obj\x86\Debug\RdlCompile.cache
+C:\Users\Labs_08-09\Desktop\S.Kenkou 10-10-2016 -\S.Kenkou 10-10-2016 -\SystemKenkou 10-10-2016\SystemKenkou-10-10-2016\SystemKenkou\obj\x86\Debug\RdlCompile.compiled
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\S.Kenkou 17-10-2016 -\S.Kenkou 10-10-2016 -\SystemKenkou 10-10-2016\SystemKenkou-10-10-2016\SystemKenkou\bin\Debug\SystemKenkou.exe.config
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\S.Kenkou 17-10-2016 -\S.Kenkou 10-10-2016 -\SystemKenkou 10-10-2016\SystemKenkou-10-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.exe
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\S.Kenkou 17-10-2016 -\S.Kenkou 10-10-2016 -\SystemKenkou 10-10-2016\SystemKenkou-10-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.pdb
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\S.Kenkou 17-10-2016 -\S.Kenkou 10-10-2016 -\SystemKenkou 10-10-2016\SystemKenkou-10-10-2016\SystemKenkou\bin\Debug\SystemKenkou.exe
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\S.Kenkou 17-10-2016 -\S.Kenkou 10-10-2016 -\SystemKenkou 10-10-2016\SystemKenkou-10-10-2016\SystemKenkou\bin\Debug\SystemKenkou.pdb
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\S.Kenkou 17-10-2016 -\S.Kenkou 10-10-2016 -\SystemKenkou 10-10-2016\SystemKenkou-10-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.csprojResolveAssemblyReference.cache
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\S.Kenkou 17-10-2016 -\S.Kenkou 10-10-2016 -\SystemKenkou 10-10-2016\SystemKenkou-10-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.fmr_rel_estoque.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\S.Kenkou 17-10-2016 -\S.Kenkou 10-10-2016 -\SystemKenkou 10-10-2016\SystemKenkou-10-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.fmr_rel_historico_consulta.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\S.Kenkou 17-10-2016 -\S.Kenkou 10-10-2016 -\SystemKenkou 10-10-2016\SystemKenkou-10-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.fmr_rel_historico_venda.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\S.Kenkou 17-10-2016 -\S.Kenkou 10-10-2016 -\SystemKenkou 10-10-2016\SystemKenkou-10-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.fmr_rel_hitorico_sessao.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\S.Kenkou 17-10-2016 -\S.Kenkou 10-10-2016 -\SystemKenkou 10-10-2016\SystemKenkou-10-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.fmr_rel_produtos_vendidos.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\S.Kenkou 17-10-2016 -\S.Kenkou 10-10-2016 -\SystemKenkou 10-10-2016\SystemKenkou-10-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.fmr_rel_sessao_alta.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\S.Kenkou 17-10-2016 -\S.Kenkou 10-10-2016 -\SystemKenkou 10-10-2016\SystemKenkou-10-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frmLocalizarCidade.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\S.Kenkou 17-10-2016 -\S.Kenkou 10-10-2016 -\SystemKenkou 10-10-2016\SystemKenkou-10-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frmLocalizarConsulta.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\S.Kenkou 17-10-2016 -\S.Kenkou 10-10-2016 -\SystemKenkou 10-10-2016\SystemKenkou-10-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frmLocalizarMedico.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\S.Kenkou 17-10-2016 -\S.Kenkou 10-10-2016 -\SystemKenkou 10-10-2016\SystemKenkou-10-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frmLocalizarPaciente.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\S.Kenkou 17-10-2016 -\S.Kenkou 10-10-2016 -\SystemKenkou 10-10-2016\SystemKenkou-10-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frmLocalizarProduto.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\S.Kenkou 17-10-2016 -\S.Kenkou 10-10-2016 -\SystemKenkou 10-10-2016\SystemKenkou-10-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frmLocalizarSessao.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\S.Kenkou 17-10-2016 -\S.Kenkou 10-10-2016 -\SystemKenkou 10-10-2016\SystemKenkou-10-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frmLocalizarTratamentocs.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\S.Kenkou 17-10-2016 -\S.Kenkou 10-10-2016 -\SystemKenkou 10-10-2016\SystemKenkou-10-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frmLocalizarUser.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\S.Kenkou 17-10-2016 -\S.Kenkou 10-10-2016 -\SystemKenkou 10-10-2016\SystemKenkou-10-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Cidade.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\S.Kenkou 17-10-2016 -\S.Kenkou 10-10-2016 -\SystemKenkou 10-10-2016\SystemKenkou-10-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_cadastro_consulta.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\S.Kenkou 17-10-2016 -\S.Kenkou 10-10-2016 -\SystemKenkou 10-10-2016\SystemKenkou-10-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Medico.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\S.Kenkou 17-10-2016 -\S.Kenkou 10-10-2016 -\SystemKenkou 10-10-2016\SystemKenkou-10-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Pacientes.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\S.Kenkou 17-10-2016 -\S.Kenkou 10-10-2016 -\SystemKenkou 10-10-2016\SystemKenkou-10-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Produto.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\S.Kenkou 17-10-2016 -\S.Kenkou 10-10-2016 -\SystemKenkou 10-10-2016\SystemKenkou-10-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Tratamento_tipos.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\S.Kenkou 17-10-2016 -\S.Kenkou 10-10-2016 -\SystemKenkou 10-10-2016\SystemKenkou-10-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frm_cadastro_Users.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\S.Kenkou 17-10-2016 -\S.Kenkou 10-10-2016 -\SystemKenkou 10-10-2016\SystemKenkou-10-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_consultas.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\S.Kenkou 17-10-2016 -\S.Kenkou 10-10-2016 -\SystemKenkou 10-10-2016\SystemKenkou-10-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_img_opcao.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\S.Kenkou 17-10-2016 -\S.Kenkou 10-10-2016 -\SystemKenkou 10-10-2016\SystemKenkou-10-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Tratamento.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\S.Kenkou 17-10-2016 -\S.Kenkou 10-10-2016 -\SystemKenkou 10-10-2016\SystemKenkou-10-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Sessao.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\S.Kenkou 17-10-2016 -\S.Kenkou 10-10-2016 -\SystemKenkou 10-10-2016\SystemKenkou-10-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Mov_Venda.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\S.Kenkou 17-10-2016 -\S.Kenkou 10-10-2016 -\SystemKenkou 10-10-2016\SystemKenkou-10-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.login_principal.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\S.Kenkou 17-10-2016 -\S.Kenkou 10-10-2016 -\SystemKenkou 10-10-2016\SystemKenkou-10-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Properties.Resources.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\S.Kenkou 17-10-2016 -\S.Kenkou 10-10-2016 -\SystemKenkou 10-10-2016\SystemKenkou-10-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.TelaInicio.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\S.Kenkou 17-10-2016 -\S.Kenkou 10-10-2016 -\SystemKenkou 10-10-2016\SystemKenkou-10-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.csproj.GenerateResource.Cache
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\S.Kenkou 17-10-2016 -\S.Kenkou 10-10-2016 -\SystemKenkou 10-10-2016\SystemKenkou-10-10-2016\SystemKenkou\obj\x86\Debug\RdlCompile.cache
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\S.Kenkou 17-10-2016 -\S.Kenkou 10-10-2016 -\SystemKenkou 10-10-2016\SystemKenkou-10-10-2016\SystemKenkou\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Labs_08-09\Desktop\S.Kenkou 17-10-2016 -\S.Kenkou 10-10-2016 -\SystemKenkou 10-10-2016\SystemKenkou-10-10-2016\SystemKenkou\bin\Debug\SystemKenkou.exe.config
+C:\Users\Labs_08-09\Desktop\S.Kenkou 17-10-2016 -\S.Kenkou 10-10-2016 -\SystemKenkou 10-10-2016\SystemKenkou-10-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.exe
+C:\Users\Labs_08-09\Desktop\S.Kenkou 17-10-2016 -\S.Kenkou 10-10-2016 -\SystemKenkou 10-10-2016\SystemKenkou-10-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.pdb
+C:\Users\Labs_08-09\Desktop\S.Kenkou 17-10-2016 -\S.Kenkou 10-10-2016 -\SystemKenkou 10-10-2016\SystemKenkou-10-10-2016\SystemKenkou\bin\Debug\SystemKenkou.exe
+C:\Users\Labs_08-09\Desktop\S.Kenkou 17-10-2016 -\S.Kenkou 10-10-2016 -\SystemKenkou 10-10-2016\SystemKenkou-10-10-2016\SystemKenkou\bin\Debug\SystemKenkou.pdb
+C:\Users\Labs_08-09\Desktop\S.Kenkou 17-10-2016 -\S.Kenkou 10-10-2016 -\SystemKenkou 10-10-2016\SystemKenkou-10-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.csprojResolveAssemblyReference.cache
+C:\Users\Labs_08-09\Desktop\S.Kenkou 17-10-2016 -\S.Kenkou 10-10-2016 -\SystemKenkou 10-10-2016\SystemKenkou-10-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.fmr_rel_estoque.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 17-10-2016 -\S.Kenkou 10-10-2016 -\SystemKenkou 10-10-2016\SystemKenkou-10-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.fmr_rel_historico_consulta.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 17-10-2016 -\S.Kenkou 10-10-2016 -\SystemKenkou 10-10-2016\SystemKenkou-10-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.fmr_rel_historico_venda.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 17-10-2016 -\S.Kenkou 10-10-2016 -\SystemKenkou 10-10-2016\SystemKenkou-10-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.fmr_rel_hitorico_sessao.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 17-10-2016 -\S.Kenkou 10-10-2016 -\SystemKenkou 10-10-2016\SystemKenkou-10-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.fmr_rel_produtos_vendidos.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 17-10-2016 -\S.Kenkou 10-10-2016 -\SystemKenkou 10-10-2016\SystemKenkou-10-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.fmr_rel_sessao_alta.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 17-10-2016 -\S.Kenkou 10-10-2016 -\SystemKenkou 10-10-2016\SystemKenkou-10-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frmLocalizarCidade.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 17-10-2016 -\S.Kenkou 10-10-2016 -\SystemKenkou 10-10-2016\SystemKenkou-10-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frmLocalizarConsulta.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 17-10-2016 -\S.Kenkou 10-10-2016 -\SystemKenkou 10-10-2016\SystemKenkou-10-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frmLocalizarMedico.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 17-10-2016 -\S.Kenkou 10-10-2016 -\SystemKenkou 10-10-2016\SystemKenkou-10-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frmLocalizarPaciente.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 17-10-2016 -\S.Kenkou 10-10-2016 -\SystemKenkou 10-10-2016\SystemKenkou-10-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frmLocalizarProduto.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 17-10-2016 -\S.Kenkou 10-10-2016 -\SystemKenkou 10-10-2016\SystemKenkou-10-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frmLocalizarSessao.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 17-10-2016 -\S.Kenkou 10-10-2016 -\SystemKenkou 10-10-2016\SystemKenkou-10-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frmLocalizarTratamentocs.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 17-10-2016 -\S.Kenkou 10-10-2016 -\SystemKenkou 10-10-2016\SystemKenkou-10-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frmLocalizarUser.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 17-10-2016 -\S.Kenkou 10-10-2016 -\SystemKenkou 10-10-2016\SystemKenkou-10-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Cidade.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 17-10-2016 -\S.Kenkou 10-10-2016 -\SystemKenkou 10-10-2016\SystemKenkou-10-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_cadastro_consulta.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 17-10-2016 -\S.Kenkou 10-10-2016 -\SystemKenkou 10-10-2016\SystemKenkou-10-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Medico.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 17-10-2016 -\S.Kenkou 10-10-2016 -\SystemKenkou 10-10-2016\SystemKenkou-10-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Pacientes.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 17-10-2016 -\S.Kenkou 10-10-2016 -\SystemKenkou 10-10-2016\SystemKenkou-10-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Produto.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 17-10-2016 -\S.Kenkou 10-10-2016 -\SystemKenkou 10-10-2016\SystemKenkou-10-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Tratamento_tipos.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 17-10-2016 -\S.Kenkou 10-10-2016 -\SystemKenkou 10-10-2016\SystemKenkou-10-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frm_cadastro_Users.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 17-10-2016 -\S.Kenkou 10-10-2016 -\SystemKenkou 10-10-2016\SystemKenkou-10-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_consultas.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 17-10-2016 -\S.Kenkou 10-10-2016 -\SystemKenkou 10-10-2016\SystemKenkou-10-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_img_opcao.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 17-10-2016 -\S.Kenkou 10-10-2016 -\SystemKenkou 10-10-2016\SystemKenkou-10-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Tratamento.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 17-10-2016 -\S.Kenkou 10-10-2016 -\SystemKenkou 10-10-2016\SystemKenkou-10-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Sessao.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 17-10-2016 -\S.Kenkou 10-10-2016 -\SystemKenkou 10-10-2016\SystemKenkou-10-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Mov_Venda.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 17-10-2016 -\S.Kenkou 10-10-2016 -\SystemKenkou 10-10-2016\SystemKenkou-10-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.login_principal.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 17-10-2016 -\S.Kenkou 10-10-2016 -\SystemKenkou 10-10-2016\SystemKenkou-10-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Properties.Resources.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 17-10-2016 -\S.Kenkou 10-10-2016 -\SystemKenkou 10-10-2016\SystemKenkou-10-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.TelaInicio.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou 17-10-2016 -\S.Kenkou 10-10-2016 -\SystemKenkou 10-10-2016\SystemKenkou-10-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.csproj.GenerateResource.Cache
+C:\Users\Labs_08-09\Desktop\S.Kenkou 17-10-2016 -\S.Kenkou 10-10-2016 -\SystemKenkou 10-10-2016\SystemKenkou-10-10-2016\SystemKenkou\obj\x86\Debug\RdlCompile.cache
+C:\Users\Labs_08-09\Desktop\S.Kenkou 17-10-2016 -\S.Kenkou 10-10-2016 -\SystemKenkou 10-10-2016\SystemKenkou-10-10-2016\SystemKenkou\obj\x86\Debug\RdlCompile.compiled
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\S.Kenkou  31-10-2016 - Editado\S.Kenkou 31-10-2016 - Editado\SystemKenkou 31-10-2016\SystemKenkou-31-10-2016\SystemKenkou\bin\Debug\SystemKenkou.exe.config
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\S.Kenkou  31-10-2016 - Editado\S.Kenkou 31-10-2016 - Editado\SystemKenkou 31-10-2016\SystemKenkou-31-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.exe
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\S.Kenkou  31-10-2016 - Editado\S.Kenkou 31-10-2016 - Editado\SystemKenkou 31-10-2016\SystemKenkou-31-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.pdb
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\S.Kenkou  31-10-2016 - Editado\S.Kenkou 31-10-2016 - Editado\SystemKenkou 31-10-2016\SystemKenkou-31-10-2016\SystemKenkou\bin\Debug\SystemKenkou.exe
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\S.Kenkou  31-10-2016 - Editado\S.Kenkou 31-10-2016 - Editado\SystemKenkou 31-10-2016\SystemKenkou-31-10-2016\SystemKenkou\bin\Debug\SystemKenkou.pdb
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\S.Kenkou  31-10-2016 - Editado\S.Kenkou 31-10-2016 - Editado\SystemKenkou 31-10-2016\SystemKenkou-31-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.csprojResolveAssemblyReference.cache
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\S.Kenkou  31-10-2016 - Editado\S.Kenkou 31-10-2016 - Editado\SystemKenkou 31-10-2016\SystemKenkou-31-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.fmr_rel_estoque.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\S.Kenkou  31-10-2016 - Editado\S.Kenkou 31-10-2016 - Editado\SystemKenkou 31-10-2016\SystemKenkou-31-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.fmr_rel_historico_consulta.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\S.Kenkou  31-10-2016 - Editado\S.Kenkou 31-10-2016 - Editado\SystemKenkou 31-10-2016\SystemKenkou-31-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.fmr_rel_historico_venda.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\S.Kenkou  31-10-2016 - Editado\S.Kenkou 31-10-2016 - Editado\SystemKenkou 31-10-2016\SystemKenkou-31-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.fmr_rel_hitorico_sessao.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\S.Kenkou  31-10-2016 - Editado\S.Kenkou 31-10-2016 - Editado\SystemKenkou 31-10-2016\SystemKenkou-31-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.fmr_rel_produtos_vendidos.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\S.Kenkou  31-10-2016 - Editado\S.Kenkou 31-10-2016 - Editado\SystemKenkou 31-10-2016\SystemKenkou-31-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.fmr_rel_sessao_alta.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\S.Kenkou  31-10-2016 - Editado\S.Kenkou 31-10-2016 - Editado\SystemKenkou 31-10-2016\SystemKenkou-31-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frmLocalizarCidade.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\S.Kenkou  31-10-2016 - Editado\S.Kenkou 31-10-2016 - Editado\SystemKenkou 31-10-2016\SystemKenkou-31-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frmLocalizarConsulta.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\S.Kenkou  31-10-2016 - Editado\S.Kenkou 31-10-2016 - Editado\SystemKenkou 31-10-2016\SystemKenkou-31-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frmLocalizarMedico.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\S.Kenkou  31-10-2016 - Editado\S.Kenkou 31-10-2016 - Editado\SystemKenkou 31-10-2016\SystemKenkou-31-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frmLocalizarPaciente.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\S.Kenkou  31-10-2016 - Editado\S.Kenkou 31-10-2016 - Editado\SystemKenkou 31-10-2016\SystemKenkou-31-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frmLocalizarProduto.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\S.Kenkou  31-10-2016 - Editado\S.Kenkou 31-10-2016 - Editado\SystemKenkou 31-10-2016\SystemKenkou-31-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frmLocalizarSessao.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\S.Kenkou  31-10-2016 - Editado\S.Kenkou 31-10-2016 - Editado\SystemKenkou 31-10-2016\SystemKenkou-31-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frmLocalizarTratamentocs.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\S.Kenkou  31-10-2016 - Editado\S.Kenkou 31-10-2016 - Editado\SystemKenkou 31-10-2016\SystemKenkou-31-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frmLocalizarUser.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\S.Kenkou  31-10-2016 - Editado\S.Kenkou 31-10-2016 - Editado\SystemKenkou 31-10-2016\SystemKenkou-31-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Cidade.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\S.Kenkou  31-10-2016 - Editado\S.Kenkou 31-10-2016 - Editado\SystemKenkou 31-10-2016\SystemKenkou-31-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_cadastro_consulta.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\S.Kenkou  31-10-2016 - Editado\S.Kenkou 31-10-2016 - Editado\SystemKenkou 31-10-2016\SystemKenkou-31-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Medico.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\S.Kenkou  31-10-2016 - Editado\S.Kenkou 31-10-2016 - Editado\SystemKenkou 31-10-2016\SystemKenkou-31-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Pacientes.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\S.Kenkou  31-10-2016 - Editado\S.Kenkou 31-10-2016 - Editado\SystemKenkou 31-10-2016\SystemKenkou-31-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Produto.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\S.Kenkou  31-10-2016 - Editado\S.Kenkou 31-10-2016 - Editado\SystemKenkou 31-10-2016\SystemKenkou-31-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Tratamento_tipos.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\S.Kenkou  31-10-2016 - Editado\S.Kenkou 31-10-2016 - Editado\SystemKenkou 31-10-2016\SystemKenkou-31-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frm_cadastro_Users.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\S.Kenkou  31-10-2016 - Editado\S.Kenkou 31-10-2016 - Editado\SystemKenkou 31-10-2016\SystemKenkou-31-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_consultas.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\S.Kenkou  31-10-2016 - Editado\S.Kenkou 31-10-2016 - Editado\SystemKenkou 31-10-2016\SystemKenkou-31-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_img_opcao.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\S.Kenkou  31-10-2016 - Editado\S.Kenkou 31-10-2016 - Editado\SystemKenkou 31-10-2016\SystemKenkou-31-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Tratamento.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\S.Kenkou  31-10-2016 - Editado\S.Kenkou 31-10-2016 - Editado\SystemKenkou 31-10-2016\SystemKenkou-31-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Sessao.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\S.Kenkou  31-10-2016 - Editado\S.Kenkou 31-10-2016 - Editado\SystemKenkou 31-10-2016\SystemKenkou-31-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Mov_Venda.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\S.Kenkou  31-10-2016 - Editado\S.Kenkou 31-10-2016 - Editado\SystemKenkou 31-10-2016\SystemKenkou-31-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.login_principal.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\S.Kenkou  31-10-2016 - Editado\S.Kenkou 31-10-2016 - Editado\SystemKenkou 31-10-2016\SystemKenkou-31-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Properties.Resources.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\S.Kenkou  31-10-2016 - Editado\S.Kenkou 31-10-2016 - Editado\SystemKenkou 31-10-2016\SystemKenkou-31-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.TelaInicio.resources
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\S.Kenkou  31-10-2016 - Editado\S.Kenkou 31-10-2016 - Editado\SystemKenkou 31-10-2016\SystemKenkou-31-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.csproj.GenerateResource.Cache
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\S.Kenkou  31-10-2016 - Editado\S.Kenkou 31-10-2016 - Editado\SystemKenkou 31-10-2016\SystemKenkou-31-10-2016\SystemKenkou\obj\x86\Debug\RdlCompile.cache
+C:\Users\HD-CLONE.HD-CLONE-PC\Desktop\S.Kenkou  31-10-2016 - Editado\S.Kenkou 31-10-2016 - Editado\SystemKenkou 31-10-2016\SystemKenkou-31-10-2016\SystemKenkou\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Labs_08-09\Desktop\S.Kenkou  1-11-2016 - Editado\S.Kenkou 31-10-2016 - Editado\SystemKenkou 31-10-2016\SystemKenkou-31-10-2016\SystemKenkou\bin\Debug\SystemKenkou.exe.config
+C:\Users\Labs_08-09\Desktop\S.Kenkou  1-11-2016 - Editado\S.Kenkou 31-10-2016 - Editado\SystemKenkou 31-10-2016\SystemKenkou-31-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.exe
+C:\Users\Labs_08-09\Desktop\S.Kenkou  1-11-2016 - Editado\S.Kenkou 31-10-2016 - Editado\SystemKenkou 31-10-2016\SystemKenkou-31-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.pdb
+C:\Users\Labs_08-09\Desktop\S.Kenkou  1-11-2016 - Editado\S.Kenkou 31-10-2016 - Editado\SystemKenkou 31-10-2016\SystemKenkou-31-10-2016\SystemKenkou\bin\Debug\SystemKenkou.exe
+C:\Users\Labs_08-09\Desktop\S.Kenkou  1-11-2016 - Editado\S.Kenkou 31-10-2016 - Editado\SystemKenkou 31-10-2016\SystemKenkou-31-10-2016\SystemKenkou\bin\Debug\SystemKenkou.pdb
+C:\Users\Labs_08-09\Desktop\S.Kenkou  1-11-2016 - Editado\S.Kenkou 31-10-2016 - Editado\SystemKenkou 31-10-2016\SystemKenkou-31-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.csprojResolveAssemblyReference.cache
+C:\Users\Labs_08-09\Desktop\S.Kenkou  1-11-2016 - Editado\S.Kenkou 31-10-2016 - Editado\SystemKenkou 31-10-2016\SystemKenkou-31-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.fmr_rel_estoque.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou  1-11-2016 - Editado\S.Kenkou 31-10-2016 - Editado\SystemKenkou 31-10-2016\SystemKenkou-31-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.fmr_rel_historico_consulta.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou  1-11-2016 - Editado\S.Kenkou 31-10-2016 - Editado\SystemKenkou 31-10-2016\SystemKenkou-31-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.fmr_rel_historico_venda.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou  1-11-2016 - Editado\S.Kenkou 31-10-2016 - Editado\SystemKenkou 31-10-2016\SystemKenkou-31-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.fmr_rel_hitorico_sessao.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou  1-11-2016 - Editado\S.Kenkou 31-10-2016 - Editado\SystemKenkou 31-10-2016\SystemKenkou-31-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.fmr_rel_produtos_vendidos.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou  1-11-2016 - Editado\S.Kenkou 31-10-2016 - Editado\SystemKenkou 31-10-2016\SystemKenkou-31-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.fmr_rel_sessao_alta.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou  1-11-2016 - Editado\S.Kenkou 31-10-2016 - Editado\SystemKenkou 31-10-2016\SystemKenkou-31-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frmLocalizarCidade.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou  1-11-2016 - Editado\S.Kenkou 31-10-2016 - Editado\SystemKenkou 31-10-2016\SystemKenkou-31-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frmLocalizarConsulta.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou  1-11-2016 - Editado\S.Kenkou 31-10-2016 - Editado\SystemKenkou 31-10-2016\SystemKenkou-31-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frmLocalizarMedico.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou  1-11-2016 - Editado\S.Kenkou 31-10-2016 - Editado\SystemKenkou 31-10-2016\SystemKenkou-31-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frmLocalizarPaciente.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou  1-11-2016 - Editado\S.Kenkou 31-10-2016 - Editado\SystemKenkou 31-10-2016\SystemKenkou-31-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frmLocalizarProduto.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou  1-11-2016 - Editado\S.Kenkou 31-10-2016 - Editado\SystemKenkou 31-10-2016\SystemKenkou-31-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frmLocalizarSessao.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou  1-11-2016 - Editado\S.Kenkou 31-10-2016 - Editado\SystemKenkou 31-10-2016\SystemKenkou-31-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frmLocalizarTratamentocs.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou  1-11-2016 - Editado\S.Kenkou 31-10-2016 - Editado\SystemKenkou 31-10-2016\SystemKenkou-31-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frmLocalizarUser.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou  1-11-2016 - Editado\S.Kenkou 31-10-2016 - Editado\SystemKenkou 31-10-2016\SystemKenkou-31-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Cidade.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou  1-11-2016 - Editado\S.Kenkou 31-10-2016 - Editado\SystemKenkou 31-10-2016\SystemKenkou-31-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_cadastro_consulta.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou  1-11-2016 - Editado\S.Kenkou 31-10-2016 - Editado\SystemKenkou 31-10-2016\SystemKenkou-31-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Medico.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou  1-11-2016 - Editado\S.Kenkou 31-10-2016 - Editado\SystemKenkou 31-10-2016\SystemKenkou-31-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Pacientes.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou  1-11-2016 - Editado\S.Kenkou 31-10-2016 - Editado\SystemKenkou 31-10-2016\SystemKenkou-31-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Produto.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou  1-11-2016 - Editado\S.Kenkou 31-10-2016 - Editado\SystemKenkou 31-10-2016\SystemKenkou-31-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Cadastro_Tratamento_tipos.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou  1-11-2016 - Editado\S.Kenkou 31-10-2016 - Editado\SystemKenkou 31-10-2016\SystemKenkou-31-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.frm_cadastro_Users.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou  1-11-2016 - Editado\S.Kenkou 31-10-2016 - Editado\SystemKenkou 31-10-2016\SystemKenkou-31-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_consultas.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou  1-11-2016 - Editado\S.Kenkou 31-10-2016 - Editado\SystemKenkou 31-10-2016\SystemKenkou-31-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_img_opcao.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou  1-11-2016 - Editado\S.Kenkou 31-10-2016 - Editado\SystemKenkou 31-10-2016\SystemKenkou-31-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Tratamento.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou  1-11-2016 - Editado\S.Kenkou 31-10-2016 - Editado\SystemKenkou 31-10-2016\SystemKenkou-31-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Sessao.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou  1-11-2016 - Editado\S.Kenkou 31-10-2016 - Editado\SystemKenkou 31-10-2016\SystemKenkou-31-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Frm_Mov_Venda.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou  1-11-2016 - Editado\S.Kenkou 31-10-2016 - Editado\SystemKenkou 31-10-2016\SystemKenkou-31-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.login_principal.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou  1-11-2016 - Editado\S.Kenkou 31-10-2016 - Editado\SystemKenkou 31-10-2016\SystemKenkou-31-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.Properties.Resources.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou  1-11-2016 - Editado\S.Kenkou 31-10-2016 - Editado\SystemKenkou 31-10-2016\SystemKenkou-31-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.TelaInicio.resources
+C:\Users\Labs_08-09\Desktop\S.Kenkou  1-11-2016 - Editado\S.Kenkou 31-10-2016 - Editado\SystemKenkou 31-10-2016\SystemKenkou-31-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.csproj.GenerateResource.Cache
+C:\Users\Labs_08-09\Desktop\S.Kenkou  1-11-2016 - Editado\S.Kenkou 31-10-2016 - Editado\SystemKenkou 31-10-2016\SystemKenkou-31-10-2016\SystemKenkou\obj\x86\Debug\RdlCompile.cache
+C:\Users\Labs_08-09\Desktop\S.Kenkou  1-11-2016 - Editado\S.Kenkou 31-10-2016 - Editado\SystemKenkou 31-10-2016\SystemKenkou-31-10-2016\SystemKenkou\obj\x86\Debug\RdlCompile.compiled
+C:\Users\marcos\Desktop\S.Kenkou  03-11-2016 - Editado\S.Kenkou 31-10-2016 - Editado\SystemKenkou 31-10-2016\SystemKenkou-31-10-2016\SystemKenkou\bin\Debug\SystemKenkou.exe.config
+C:\Users\marcos\Desktop\S.Kenkou  03-11-2016 - Editado\S.Kenkou 31-10-2016 - Editado\SystemKenkou 31-10-2016\SystemKenkou-31-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.exe
+C:\Users\marcos\Desktop\S.Kenkou  03-11-2016 - Editado\S.Kenkou 31-10-2016 - Editado\SystemKenkou 31-10-2016\SystemKenkou-31-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.pdb
+C:\Users\marcos\Desktop\S.Kenkou  07-11\S.Kenkou 31-10-2016 - Editado\SystemKenkou 31-10-2016\SystemKenkou-31-10-2016\SystemKenkou\bin\Debug\SystemKenkou.exe.config
+C:\Users\marcos\Desktop\S.Kenkou  07-11\S.Kenkou 31-10-2016 - Editado\SystemKenkou 31-10-2016\SystemKenkou-31-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.exe
+C:\Users\marcos\Desktop\S.Kenkou  07-11\S.Kenkou 31-10-2016 - Editado\SystemKenkou 31-10-2016\SystemKenkou-31-10-2016\SystemKenkou\obj\x86\Debug\SystemKenkou.pdb

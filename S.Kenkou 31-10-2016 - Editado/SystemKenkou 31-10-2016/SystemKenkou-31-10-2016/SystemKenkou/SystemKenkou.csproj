@@ -1,0 +1,526 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{C8AF1DA5-0197-49FB-BEFA-E994280536C5}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SystemKenkou</RootNamespace>
+    <AssemblyName>SystemKenkou</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ClinicaDataSet.cs">
+      <DependentUpon>ClinicaDataSet.xsd</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="ClinicaDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ClinicaDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="fmr_rel_estoque.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fmr_rel_estoque.Designer.cs">
+      <DependentUpon>fmr_rel_estoque.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fmr_rel_historico_consulta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fmr_rel_historico_consulta.Designer.cs">
+      <DependentUpon>fmr_rel_historico_consulta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fmr_rel_historico_venda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fmr_rel_historico_venda.Designer.cs">
+      <DependentUpon>fmr_rel_historico_venda.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fmr_rel_hitorico_sessao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fmr_rel_hitorico_sessao.Designer.cs">
+      <DependentUpon>fmr_rel_hitorico_sessao.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fmr_rel_produtos_vendidos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fmr_rel_produtos_vendidos.Designer.cs">
+      <DependentUpon>fmr_rel_produtos_vendidos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fmr_rel_sessao_alta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fmr_rel_sessao_alta.Designer.cs">
+      <DependentUpon>fmr_rel_sessao_alta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLocalizarCidade.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLocalizarCidade.Designer.cs">
+      <DependentUpon>frmLocalizarCidade.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLocalizarConsulta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLocalizarConsulta.Designer.cs">
+      <DependentUpon>frmLocalizarConsulta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLocalizarMedico.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLocalizarMedico.Designer.cs">
+      <DependentUpon>frmLocalizarMedico.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLocalizarPaciente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLocalizarPaciente.Designer.cs">
+      <DependentUpon>frmLocalizarPaciente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLocalizarProduto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLocalizarProduto.Designer.cs">
+      <DependentUpon>frmLocalizarProduto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLocalizarSessao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLocalizarSessao.Designer.cs">
+      <DependentUpon>frmLocalizarSessao.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLocalizarTipoTratamento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLocalizarTipoTratamento.Designer.cs">
+      <DependentUpon>frmLocalizarTipoTratamento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmLocalizarUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmLocalizarUser.Designer.cs">
+      <DependentUpon>frmLocalizarUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_Cadastro_Cidade.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Cadastro_Cidade.Designer.cs">
+      <DependentUpon>Frm_Cadastro_Cidade.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_cadastro_consulta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_cadastro_consulta.Designer.cs">
+      <DependentUpon>Frm_cadastro_consulta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_Cadastro_Medico.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Cadastro_Medico.Designer.cs">
+      <DependentUpon>Frm_Cadastro_Medico.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_Cadastro_Pacientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Cadastro_Pacientes.Designer.cs">
+      <DependentUpon>Frm_Cadastro_Pacientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_Cadastro_Produto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Cadastro_Produto.Designer.cs">
+      <DependentUpon>Frm_Cadastro_Produto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_Cadastro_Tratamento-tipos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Cadastro_Tratamento-tipos.Designer.cs">
+      <DependentUpon>Frm_Cadastro_Tratamento-tipos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frm_cadastro_Users.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frm_cadastro_Users.Designer.cs">
+      <DependentUpon>frm_cadastro_Users.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_consultas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_consultas.Designer.cs">
+      <DependentUpon>Frm_consultas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_img_opcao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_img_opcao.Designer.cs">
+      <DependentUpon>Frm_img_opcao.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_Tratamento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Tratamento.Designer.cs">
+      <DependentUpon>Frm_Tratamento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_Sessao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Sessao.Designer.cs">
+      <DependentUpon>Frm_Sessao.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Frm_Mov_Venda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frm_Mov_Venda.Designer.cs">
+      <DependentUpon>Frm_Mov_Venda.cs</DependentUpon>
+    </Compile>
+    <Compile Include="login_principal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="login_principal.Designer.cs">
+      <DependentUpon>login_principal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TelaInicio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TelaInicio.Designer.cs">
+      <DependentUpon>TelaInicio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Variaveis_Globais.cs" />
+    <EmbeddedResource Include="fmr_rel_estoque.resx">
+      <DependentUpon>fmr_rel_estoque.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fmr_rel_historico_consulta.resx">
+      <DependentUpon>fmr_rel_historico_consulta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fmr_rel_historico_venda.resx">
+      <DependentUpon>fmr_rel_historico_venda.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fmr_rel_hitorico_sessao.resx">
+      <DependentUpon>fmr_rel_hitorico_sessao.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fmr_rel_produtos_vendidos.resx">
+      <DependentUpon>fmr_rel_produtos_vendidos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fmr_rel_sessao_alta.resx">
+      <DependentUpon>fmr_rel_sessao_alta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLocalizarCidade.resx">
+      <DependentUpon>frmLocalizarCidade.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLocalizarConsulta.resx">
+      <DependentUpon>frmLocalizarConsulta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLocalizarMedico.resx">
+      <DependentUpon>frmLocalizarMedico.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLocalizarPaciente.resx">
+      <DependentUpon>frmLocalizarPaciente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLocalizarProduto.resx">
+      <DependentUpon>frmLocalizarProduto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLocalizarSessao.resx">
+      <DependentUpon>frmLocalizarSessao.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLocalizarTipoTratamento.resx">
+      <DependentUpon>frmLocalizarTipoTratamento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmLocalizarUser.resx">
+      <DependentUpon>frmLocalizarUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Cadastro_Cidade.resx">
+      <DependentUpon>Frm_Cadastro_Cidade.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_cadastro_consulta.resx">
+      <DependentUpon>Frm_cadastro_consulta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Cadastro_Medico.resx">
+      <DependentUpon>Frm_Cadastro_Medico.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Cadastro_Pacientes.resx">
+      <DependentUpon>Frm_Cadastro_Pacientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Cadastro_Produto.resx">
+      <DependentUpon>Frm_Cadastro_Produto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Cadastro_Tratamento-tipos.resx">
+      <DependentUpon>Frm_Cadastro_Tratamento-tipos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frm_cadastro_Users.resx">
+      <DependentUpon>frm_cadastro_Users.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_consultas.resx">
+      <DependentUpon>Frm_consultas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_img_opcao.resx">
+      <DependentUpon>Frm_img_opcao.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Tratamento.resx">
+      <DependentUpon>Frm_Tratamento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Sessao.resx">
+      <DependentUpon>Frm_Sessao.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frm_Mov_Venda.resx">
+      <DependentUpon>Frm_Mov_Venda.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Rel_Historico_de_venda.rdlc" />
+    <EmbeddedResource Include="login_principal.resx">
+      <DependentUpon>login_principal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Rel_historico_consulta.rdlc" />
+    <EmbeddedResource Include="Rel_Historico_sessao.rdlc" />
+    <EmbeddedResource Include="Rel_Podutos_Estoque .rdlc" />
+    <EmbeddedResource Include="Rel_produtos_Vendidos.rdlc" />
+    <EmbeddedResource Include="report_sessao_alta-kenkou.rdlc" />
+    <EmbeddedResource Include="Sessao_Alta.rdlc" />
+    <EmbeddedResource Include="TelaInicio.resx">
+      <DependentUpon>TelaInicio.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="ClassDiagram1.cd" />
+    <None Include="ClinicaDataSet.xsc">
+      <DependentUpon>ClinicaDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="ClinicaDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ClinicaDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="ClinicaDataSet.xss">
+      <DependentUpon>ClinicaDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LOGO KENKOU.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LOGO KENKOU1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1462907480_essential_set_down.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1467369683_list-add-user1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\reports1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\reports.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tratamento.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\acupunture-needles.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tratamento1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tratamento2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\medicine.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\information.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\money movi.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Horarios.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Horarios1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Consulta.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sem título.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\164896_1377116309178108_482874774_n.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1470067030_common-logout-signout-exit-outline-stroke.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sem título1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sem título2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sem título3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\new-file.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rubbish-bin.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\save.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sem título4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sem título5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\new.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\close.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\error.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\save1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\draw.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\advence.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\next.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ante.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\recuo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\received_1048558388545778.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sem título6.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sem título31.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sem título7.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\untitled.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1472082029_Windows_Marketplace.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1472081731_MetroUI_Windows8_Maps.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1472082251_MetroUI_Windows8_Maps.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1472082251_MetroUI_Windows8_Maps1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1472081952_Windows_Card_Space.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1472162240_Windows_Mobility_Center.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lixeira.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\lupa.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\37b563c2bdecad855f50203092f8d84a.jpg" />
+    <None Include="Resources\1475103327_Settings.png" />
+    <None Include="Resources\Fundo2.jpg" />
+    <None Include="Resources\Fundo21.jpg" />
+    <None Include="Resources\Fundo22.jpg" />
+    <None Include="Resources\Fundo23.jpg" />
+    <None Include="Resources\Fundo24.jpg" />
+    <None Include="Resources\Fundo25.jpg" />
+    <None Include="Resources\Fundo26.jpg" />
+    <None Include="Resources\Fundo27.jpg" />
+    <None Include="Resources\Fundo28.jpg" />
+    <None Include="Resources\Fundo29.jpg" />
+    <Content Include="Resources\usuario.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

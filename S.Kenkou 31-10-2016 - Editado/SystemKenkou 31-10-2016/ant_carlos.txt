@@ -1,0 +1,3 @@
+faz consulta
+sistema mostra as consultas em espera
+	dois lique abre a consulta
